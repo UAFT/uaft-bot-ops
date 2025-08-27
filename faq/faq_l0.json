@@ -1,0 +1,252 @@
+{
+  "version": "2025-08-27.unified-L0.final",
+  "items": [
+    {
+      "intent": "приветствие",
+      "title": "Приветствие",
+      "category": "общие",
+      "ru": {
+        "patterns": ["здравствуйте", "привет", "намаскар", "намасте", "намастэ", "доброго времени суток"],
+        "answer": "Здравствуйте! Я Fight Tech гид. Готов ответить на ваши вопросы по теме работы школы, групповых и индивидуальных тренировок, оплат и всего, что с этим связано."
+      },
+      "en": {
+        "patterns": ["hello", "hi", "good day", "namaste"],
+        "answer": "Hello! I am your Fight Tech guide. Ready to answer your questions about the school, group and individual trainings, payments, and more."
+      }
+    },
+    {
+      "intent": "тренировки",
+      "title": "Расскажите про тренировки",
+      "category": "тренировки",
+      "ru": {
+        "patterns": ["расскажите про тренировки", "интересуют тренировки", "что по тренировкам", "какие тренировки", "хочу узнать про тренировки"],
+        "answer": "Групповые занятия проходят в Мандрэме\nПо понедельникам, средам, пятницам:\n— Утренние — 09:00\n— Дневные — 16:30\nДо 1 ноября 2025 - Цена групповых тренировок:\nБлок 12 (12 занятий в месяц, по 3 в неделю) — 4000 ₹\nБлок 8 (8 занятий в месяц, по 2 в неделю) — 3000 ₹\nБлок 4 (4 занятия в месяц, по 1 в неделю) — 2000 ₹\nРазовое посещение — 600 ₹\n\nПосле 1 ноября 2025 - Цена групповых тренировок:\nБлок 12 — 4800 ₹\nБлок 8 — 3600 ₹\nБлок 4 — 2000 ₹\nРазовое посещение — 600 ₹\nФорма: удобная спортивная одежда.\nМожно босиком или в чистой сменной обуви. В зале есть специальное покрытие.\nЗанятие длится 90 минут.\nИнвентарь предоставляется."
+      },
+      "en": {
+        "patterns": ["tell me about training", "trainings info", "group trainings"],
+        "answer": "Group trainings take place in Mandrem\nMon/Wed/Fri:\n— Morning — 09:00\n— Afternoon — 16:30\nUntil Nov 1, 2025:\nBlock 12 — ₹4000\nBlock 8 — ₹3000\nBlock 4 — ₹2000\nSingle session — ₹600\n\nAfter Nov 1, 2025:\nBlock 12 — ₹4800\nBlock 8 — ₹3600\nBlock 4 — ₹2000\nSingle session — ₹600\nClothing: comfortable sportswear.\nBarefoot or clean shoes (special mats available).\nSession: 90 minutes.\nEquipment is provided."
+      }
+    },
+    {
+      "intent": "спортивная_форма",
+      "title": "Спортивная форма / одежда / обувь",
+      "category": "экипировка",
+      "ru": {
+        "patterns": ["форма", "в чем приходить на тренировку", "как одеваться на тренировку", "спортивная форма", "спортивная одежда", "формат одежды", "какой формат тренировочной одежды", "форма одежды", "в какой одежде приходить", "в какой одежде можно тренироваться", "какая должна быть одежда", "кроссовки", "обувь", "в какой обуви приходить", "какая обувка"],
+        "answer": "Форма — любая удобная спортивная одежда (шорты/леггинсы, майка/футболка). Можно босиком или в чистой сменной обуви. В зале есть специальное покрытие."
+      },
+      "en": {
+        "patterns": ["what to wear", "clothes", "sportswear", "shoes"],
+        "answer": "Wear any comfortable sportswear (shorts/leggings, t-shirt). Barefoot or clean shoes are allowed (special mats in the hall)."
+      }
+    },
+    {
+      "intent": "формат_тренировок",
+      "title": "Как проходят тренировки",
+      "category": "тренировки",
+      "ru": {
+        "patterns": ["как проходят тренировки", "формат тренировок", "как строится занятие", "что делаете на тренировках"],
+        "answer": "Формат разнообразный: силовые, круговые, ОФП, СФП, ВИИТ (ХИИТ), кроссфит (EMOM, AMRAP, AFAP), работа на мешках, в парах, техника (атака/защита), растяжка. Базовая модель: разминка → тренировка → заминка."
+      },
+      "en": {
+        "patterns": ["how are trainings structured", "training format"],
+        "answer": "Format varies: strength, circuit, GPP, SPP, HIIT, CrossFit (EMOM, AMRAP, AFAP), bag work, pairs, technique, stretching. Basic: warm-up → main → cool down."
+      }
+    },
+    {
+      "intent": "аббревиатуры",
+      "title": "Аббревиатуры (ОФП, СФП, ВИИТ)",
+      "category": "термины",
+      "ru": {
+        "patterns": ["что такое ОФП", "что такое СФП", "что такое ВИИТ", "что значит HIIT"],
+        "answer": "ОФП — общая физическая подготовка.\nСФП — специальная физическая подготовка.\nВИИТ (или HIIT) — высокоинтенсивные интервальные тренировки."
+      },
+      "en": {
+        "patterns": ["what is GPP", "what is SPP", "what is HIIT"],
+        "answer": "GPP — General Physical Preparation.\nSPP — Specific Physical Preparation.\nHIIT — High Intensity Interval Training."
+      }
+    },
+    {
+      "intent": "вода",
+      "title": "Вода и куллер",
+      "category": "экипировка",
+      "ru": {
+        "patterns": ["в зале есть вода", "есть куллер", "можно набрать воды", "вода в зале есть", "мне со своей водой приходить", "я смогу набрать воды"],
+        "answer": "Питьевой воды в зале нет — приносите свою. Идеально — вода с электролитами (пакетик ~₹25 на 1 л)."
+      },
+      "en": {
+        "patterns": ["is water available", "is there cooler", "can I refill water"],
+        "answer": "There is no drinking water in the hall — bring your own. Ideally with electrolytes (~₹25 per 1L)."
+      }
+    },
+    {
+      "intent": "электролиты",
+      "title": "Электролиты",
+      "category": "экипировка",
+      "ru": {
+        "patterns": ["электролиты", "зачем электролиты", "где купить электролиты", "где их приобрести"],
+        "answer": "Электролиты — минеральные вещества (натрий, калий, кальций, магний, хлор и др.). Они поддерживают баланс воды, работу нервов и мышц. Купить можно в аптеке (oral salt, electrolytes) ~₹25 за пакетик."
+      },
+      "en": {
+        "patterns": ["electrolytes", "why electrolytes", "where to buy electrolytes"],
+        "answer": "Electrolytes are minerals (sodium, potassium, calcium, magnesium, chloride, etc.). They support hydration and muscle/nerve function. Available at pharmacies (~₹25 per sachet)."
+      }
+    },
+    {
+      "intent": "оплата",
+      "title": "Оплата",
+      "category": "оплата",
+      "ru": {
+        "patterns": ["как оплатить", "оплата", "оплата частями", "частями можно"],
+        "answer": "Оплата после тренировки, наличными. Выбранный блок или разовое занятие оплачивается полностью. Оплата частями не предусмотрена."
+      },
+      "en": {
+        "patterns": ["how to pay", "payment", "installments"],
+        "answer": "Payment is in cash after training. Selected block or single session is paid in full. No installments."
+      }
+    },
+    {
+      "intent": "босиком",
+      "title": "Можно ли босиком",
+      "category": "экипировка",
+      "ru": {
+        "patterns": ["босиком можно", "можно босиком", "можно ли тренироваться босиком"],
+        "answer": "Можно босиком, в зале есть специальное покрытие."
+      },
+      "en": {
+        "patterns": ["can I train barefoot", "barefoot"],
+        "answer": "Yes, barefoot is allowed. The hall has special flooring."
+      }
+    },
+    {
+      "intent": "локация",
+      "title": "Локация зала",
+      "category": "локация",
+      "ru": {
+        "patterns": ["как до вас добраться", "где вы находитесь", "как вас найти", "как к вам попасть"],
+        "answer": "Мандрем. 4-этажное здание, последний этаж. Есть парковка. Белый билборд ANDAR FIGHT TECH. Две собаки — не бойтесь, они не кусают."
+      },
+      "en": {
+        "patterns": ["where are you", "location", "how to get there"],
+        "answer": "Mandrem. 4-floor building, top floor. Parking available. White billboard ANDAR FIGHT TECH. Two dogs at entrance — don’t worry, they don’t bite."
+      }
+    },
+    {
+      "intent": "что_взять",
+      "title": "Что взять с собой",
+      "category": "экипировка",
+      "ru": {
+        "patterns": ["что взять с собой", "что с собой брать", "что нужно взять на тренировку", "что взять на первую тренировку", "мне нужно что-то дополнительно брать с собой"],
+        "answer": "Вода (лучше с электролитами), два полотенца (одно для пота, другое для душа), средства гигиены, сменная обувь (по желанию)."
+      },
+      "en": {
+        "patterns": ["what to bring", "what should I take"],
+        "answer": "Bring water (ideally with electrolytes), two towels (one for sweat, one for shower), hygiene items, and clean shoes (optional)."
+      }
+    },
+    {
+      "intent": "группы",
+      "title": "Размер групп",
+      "category": "тренировки",
+      "ru": {
+        "patterns": ["какие группы", "размер группы"],
+        "answer": "Группы средние, до 12 человек. Смешанные — русскоязычные и англоязычные, мужчины и женщины, разный уровень."
+      },
+      "en": {
+        "patterns": ["group size", "how many in group"],
+        "answer": "Groups are medium, up to 12 people. Mixed — Russian/English speakers, men and women, all levels."
+      }
+    },
+    {
+      "intent": "пробная",
+      "title": "Пробная тренировка",
+      "category": "тренировки",
+      "ru": {
+        "patterns": ["есть пробная тренировка", "нужно записываться на пробную", "нужно записываться заранее", "я хочу на пробную прийти", "как попасть на пробную"],
+        "answer": "Есть пробная тренировка — можно прийти бесплатно в любой день (Пн/Ср/Пт 09:00 и 16:30). Запись не требуется. Будьте в зале за 5–10 мин."
+      },
+      "en": {
+        "patterns": ["trial training", "is there free training", "how to try"],
+        "answer": "Yes, we offer a free trial training — Mon/Wed/Fri at 09:00 or 16:30. No booking required. Be in the hall 5–10 min before."
+      }
+    },
+    {
+      "intent": "новички",
+      "title": "Для новичков",
+      "category": "тренировки",
+      "ru": {
+        "patterns": ["я новичок", "я новенькая", "я немного волнуюсь", "я давно не тренировался", "я давно не тренировалась", "я хочу попробовать"],
+        "answer": "Для новичков программа адаптируется индивидуально. Нагрузку подстроим. В группе разный уровень — комфортно всем."
+      },
+      "en": {
+        "patterns": ["I am beginner", "I am new", "I am nervous", "I have not trained for a long time"],
+        "answer": "For beginners, the program is adapted individually. Load is adjusted, groups are mixed level — comfortable for everyone."
+      }
+    },
+    {
+      "intent": "инвентарь",
+      "title": "Инвентарь",
+      "category": "экипировка",
+      "ru": {
+        "patterns": ["инвентарь", "у вас есть инвентарь", "у вас есть перчатки", "у меня нет перчаток", "мне нужны бинты", "у вас есть оборудование"],
+        "answer": "Инвентарь в наличии имеется. Перчатки и бинты выдаём для занятий. Со временем вы сможете приобрести свои."
+      },
+      "en": {
+        "patterns": ["equipment", "do you have gloves", "I don't have gloves", "do I need wraps"],
+        "answer": "Equipment is available. Gloves and wraps are provided. Later you may buy your own."
+      }
+    },
+    {
+      "intent": "где_купить",
+      "title": "Где купить экипировку",
+      "category": "экипировка",
+      "ru": {
+        "patterns": ["где купить перчатки", "а где можно купить перчатки", "где купить инвентарь", "где я могу купить"],
+        "answer": "Купить экипировку можно на Amazon или Flipkart. В Гоа есть локальные спортивные магазины."
+      },
+      "en": {
+        "patterns": ["where to buy gloves", "where to buy equipment"],
+        "answer": "You can buy equipment on Amazon or Flipkart. In Goa, there are also local sports shops."
+      }
+    },
+    {
+      "intent": "расписание",
+      "title": "Расписание тренировок",
+      "category": "тренировки",
+      "ru": {
+        "patterns": ["когда у вас тренировки", "по каким дням тренировки", "расписание"],
+        "answer": "Кикбоксинг (группы): Пн/Ср/Пт — 09:00 и 16:30.\nКроссфит: Ср/Чт/Сб — утро (уточнить).\nПриходите за 5–10 мин."
+      },
+      "en": {
+        "patterns": ["schedule", "when are trainings", "what days are trainings"],
+        "answer": "Kickboxing (groups): Mon/Wed/Fri — 09:00 and 16:30.\nCrossFit: Wed/Thu/Sat — morning (time to be confirmed).\nArrive 5–10 min early."
+      }
+    },
+    {
+      "intent": "длительность",
+      "title": "Длительность тренировки",
+      "category": "тренировки",
+      "ru": {
+        "patterns": ["сколько длится тренировка", "длительность занятия", "сколько идет тренировка"],
+        "answer": "Тренировка длится 90 минут. Индивидуальные занятия — 60 минут."
+      },
+      "en": {
+        "patterns": ["how long is training", "duration", "training length"],
+        "answer": "Group training lasts 90 minutes. Individual sessions — 60 minutes."
+      }
+    },
+    {
+      "intent": "парковка",
+      "title": "Парковка",
+      "category": "локация",
+      "ru": {
+        "patterns": ["есть парковка", "можно припарковаться"],
+        "answer": "Да, парковка есть у здания. Белый билборд ANDAR FIGHT TECH рядом."
+      },
+      "en": {
+        "patterns": ["is there parking", "can I park"],
+        "answer": "Yes, parking is available at the building. White billboard ANDAR FIGHT TECH is nearby."
+      }
+    }
+  ]
+}
