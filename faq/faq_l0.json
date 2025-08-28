@@ -1,251 +1,653 @@
 {
-  "version": "2025-08-27.unified-L0.final",
+  "version": "L0.from_sheet.dryrun",
+  "updated_at": "2025-08-28T23:15:09Z",
   "items": [
     {
       "intent": "приветствие",
-      "title": "Приветствие",
-      "category": "общие",
+      "title": "приветствие",
+      "category": "",
       "ru": {
-        "patterns": ["здравствуйте", "привет", "намаскар", "намасте", "намастэ", "доброго времени суток"],
-        "answer": "Здравствуйте! Я Fight Tech гид. Готов ответить на ваши вопросы по теме работы школы, групповых и индивидуальных тренировок, оплат и всего, что с этим связано."
+        "patterns": [
+          "здравствуйте",
+          "привет",
+          "намаскар",
+          "намасте",
+          "намастэ",
+          "доброго времени суток"
+        ],
+        "answer": "Здравствуйте! Я Fight Tech гид. \nОтвечу на ваши вопросы по теме тренировок работы школы"
       },
       "en": {
-        "patterns": ["hello", "hi", "good day", "namaste"],
-        "answer": "Hello! I am your Fight Tech guide. Ready to answer your questions about the school, group and individual trainings, payments, and more."
+        "patterns": [
+          "hello",
+          "hi",
+          "namaskar",
+          "namaste",
+          "namasté",
+          "good day"
+        ],
+        "answer": "Hello! I'm the Fight Tech guide.\nI will answer your questions about the school's training and operations."
       }
     },
     {
       "intent": "тренировки",
-      "title": "Расскажите про тренировки",
-      "category": "тренировки",
+      "title": "тренировки",
+      "category": "",
       "ru": {
-        "patterns": ["расскажите про тренировки", "интересуют тренировки", "что по тренировкам", "какие тренировки", "хочу узнать про тренировки"],
-        "answer": "Групповые занятия проходят в Мандрэме\nПо понедельникам, средам, пятницам:\n— Утренние — 09:00\n— Дневные — 16:30\nДо 1 ноября 2025 - Цена групповых тренировок:\nБлок 12 (12 занятий в месяц, по 3 в неделю) — 4000 ₹\nБлок 8 (8 занятий в месяц, по 2 в неделю) — 3000 ₹\nБлок 4 (4 занятия в месяц, по 1 в неделю) — 2000 ₹\nРазовое посещение — 600 ₹\n\nПосле 1 ноября 2025 - Цена групповых тренировок:\nБлок 12 — 4800 ₹\nБлок 8 — 3600 ₹\nБлок 4 — 2000 ₹\nРазовое посещение — 600 ₹\nФорма: удобная спортивная одежда.\nМожно босиком или в чистой сменной обуви. В зале есть специальное покрытие.\nЗанятие длится 90 минут.\nИнвентарь предоставляется."
+        "patterns": [
+          "тренировки",
+          "расскажите про тренировки",
+          "интересуют тренировки",
+          "что по тренировкам",
+          "какие тренировки",
+          "хочу узнать про тренировки"
+        ],
+        "answer": "Групповые тренировки проходят в Мандрэме \nпо понедельникам, средам и пятницам: \nутро — 09:00, день — 16:30. \n\nЦены до 01.11.2025: \n\nБлок 12 — 4000 \nБлок 8 — 3000 \nБлок 4 — 2000  \nразовое — 600 \n\nЦены после 01.11.2025: \n\nБлок 12 — 4800 \nБлок 8 — 3600  \nБлок 4 — 2000 \nразовое — 600 \nФорма — любая одежда в которой будет комфортно тренироваться. \nМожно босиком или в чистой сменной обуви. \nВ зале есть специальное покрытие. \nЗанятие длится 90 минут \nИнвентарь предоставляется\nЛюбой блок тренировок действует \n4 недели с момента первой тренировки"
       },
       "en": {
-        "patterns": ["tell me about training", "trainings info", "group trainings"],
-        "answer": "Group trainings take place in Mandrem\nMon/Wed/Fri:\n— Morning — 09:00\n— Afternoon — 16:30\nUntil Nov 1, 2025:\nBlock 12 — ₹4000\nBlock 8 — ₹3000\nBlock 4 — ₹2000\nSingle session — ₹600\n\nAfter Nov 1, 2025:\nBlock 12 — ₹4800\nBlock 8 — ₹3600\nBlock 4 — ₹2000\nSingle session — ₹600\nClothing: comfortable sportswear.\nBarefoot or clean shoes (special mats available).\nSession: 90 minutes.\nEquipment is provided."
+        "patterns": [
+          "workouts",
+          "tell me about the workouts",
+          "interested in workouts",
+          "what about workouts",
+          "what workouts are there",
+          "I want to learn about the workouts"
+        ],
+        "answer": "Group workouts take place in Mandreme\non Mondays, Wednesdays and Fridays:\nmorning — 09:00, afternoon — 16:30.\n\nPrices until 01.11.2025:\n\nBlock 12 — 4000\nBlock 8 — 3000\nBlock 4 — 2000\nsingle session — 600\n\nPrices after 01.11.2025:\n\nBlock 12 — 4800\nBlock 8 — 3600\nBlock 4 — 2000\nsingle session — 600\n\nAttire — any clothing in which it will be comfortable to train.\nYou can be barefoot or wear clean indoor shoes.\nThe hall has a special flooring.\nA session lasts 90 minutes.\nEquipment is provided.\nAny training block is valid for 4 weeks from the date of the first training."
       }
     },
     {
       "intent": "спортивная_форма",
-      "title": "Спортивная форма / одежда / обувь",
-      "category": "экипировка",
+      "title": "спортивная_форма",
+      "category": "",
       "ru": {
-        "patterns": ["форма", "в чем приходить на тренировку", "как одеваться на тренировку", "спортивная форма", "спортивная одежда", "формат одежды", "какой формат тренировочной одежды", "форма одежды", "в какой одежде приходить", "в какой одежде можно тренироваться", "какая должна быть одежда", "кроссовки", "обувь", "в какой обуви приходить", "какая обувка"],
-        "answer": "Форма — любая удобная спортивная одежда (шорты/леггинсы, майка/футболка). Можно босиком или в чистой сменной обуви. В зале есть специальное покрытие."
+        "patterns": [
+          "форма",
+          "в чем приходить на тренировку",
+          "как одеваться на тренировку",
+          "спортивная форма",
+          "спортивная одежда",
+          "формат одежды",
+          "какой формат тренировочной одежды",
+          "форма одежды",
+          "в какой одежде приходить",
+          "в какой одежде можно тренироваться",
+          "какая должна быть одежда",
+          "кроссовки",
+          "обувь",
+          "в какой обуви приходить",
+          "какая обувка"
+        ],
+        "answer": "Форма — любая удобная одежда \n(шорты/леггинсы, майка/футболка). \nМожно босиком или в чистой сменной обуви. \nВ зале есть специальное покрытие"
       },
       "en": {
-        "patterns": ["what to wear", "clothes", "sportswear", "shoes"],
-        "answer": "Wear any comfortable sportswear (shorts/leggings, t-shirt). Barefoot or clean shoes are allowed (special mats in the hall)."
+        "patterns": [
+          "uniform",
+          "what to wear to training",
+          "how to dress for training",
+          "sports uniform",
+          "sports clothing",
+          "clothing format",
+          "what format of training clothing",
+          "clothing form",
+          "in what clothes to come",
+          "in what clothes can I train",
+          "what should the clothing be",
+          "sneakers",
+          "shoes",
+          "what shoes to come in",
+          "what footwear"
+        ],
+        "answer": "Attire — any comfortable clothing\n(shorts/leggings, tank top/T-shirt).\nYou can be barefoot or wear clean indoor shoes.\nThe hall has a special flooring."
       }
     },
     {
       "intent": "формат_тренировок",
-      "title": "Как проходят тренировки",
-      "category": "тренировки",
+      "title": "формат_тренировок",
+      "category": "",
       "ru": {
-        "patterns": ["как проходят тренировки", "формат тренировок", "как строится занятие", "что делаете на тренировках"],
-        "answer": "Формат разнообразный: силовые, круговые, ОФП, СФП, ВИИТ (ХИИТ), кроссфит (EMOM, AMRAP, AFAP), работа на мешках, в парах, техника (атака/защита), растяжка. Базовая модель: разминка → тренировка → заминка."
+        "patterns": [
+          "формат тренировок",
+          "как проходят тренировки",
+          "формат тренировки",
+          "как строится занятие",
+          "что делаете на тренировках",
+          "какой формат треировки",
+          "какой формат тренировок"
+        ],
+        "answer": "Формат разнообразный: \nсиловые, круговые, ОФП, СФП, HIIT, EMOM, AMRAP, AFAP, \nработа на мешках, на лапах, в парах, \nработа на технику (атака/защита), растяжка, суставная гимнастика. \nБазовая модель: разминка → тренировка → заминка.\","
       },
       "en": {
-        "patterns": ["how are trainings structured", "training format"],
-        "answer": "Format varies: strength, circuit, GPP, SPP, HIIT, CrossFit (EMOM, AMRAP, AFAP), bag work, pairs, technique, stretching. Basic: warm-up → main → cool down."
-      }
-    },
-    {
-      "intent": "аббревиатуры",
-      "title": "Аббревиатуры (ОФП, СФП, ВИИТ)",
-      "category": "термины",
-      "ru": {
-        "patterns": ["что такое ОФП", "что такое СФП", "что такое ВИИТ", "что значит HIIT"],
-        "answer": "ОФП — общая физическая подготовка.\nСФП — специальная физическая подготовка.\nВИИТ (или HIIT) — высокоинтенсивные интервальные тренировки."
-      },
-      "en": {
-        "patterns": ["what is GPP", "what is SPP", "what is HIIT"],
-        "answer": "GPP — General Physical Preparation.\nSPP — Specific Physical Preparation.\nHIIT — High Intensity Interval Training."
-      }
-    },
-    {
-      "intent": "вода",
-      "title": "Вода и куллер",
-      "category": "экипировка",
-      "ru": {
-        "patterns": ["в зале есть вода", "есть куллер", "можно набрать воды", "вода в зале есть", "мне со своей водой приходить", "я смогу набрать воды"],
-        "answer": "Питьевой воды в зале нет — приносите свою. Идеально — вода с электролитами (пакетик ~₹25 на 1 л)."
-      },
-      "en": {
-        "patterns": ["is water available", "is there cooler", "can I refill water"],
-        "answer": "There is no drinking water in the hall — bring your own. Ideally with electrolytes (~₹25 per 1L)."
-      }
-    },
-    {
-      "intent": "электролиты",
-      "title": "Электролиты",
-      "category": "экипировка",
-      "ru": {
-        "patterns": ["электролиты", "зачем электролиты", "где купить электролиты", "где их приобрести"],
-        "answer": "Электролиты — минеральные вещества (натрий, калий, кальций, магний, хлор и др.). Они поддерживают баланс воды, работу нервов и мышц. Купить можно в аптеке (oral salt, electrolytes) ~₹25 за пакетик."
-      },
-      "en": {
-        "patterns": ["electrolytes", "why electrolytes", "where to buy electrolytes"],
-        "answer": "Electrolytes are minerals (sodium, potassium, calcium, magnesium, chloride, etc.). They support hydration and muscle/nerve function. Available at pharmacies (~₹25 per sachet)."
-      }
-    },
-    {
-      "intent": "оплата",
-      "title": "Оплата",
-      "category": "оплата",
-      "ru": {
-        "patterns": ["как оплатить", "оплата", "оплата частями", "частями можно"],
-        "answer": "Оплата после тренировки, наличными. Выбранный блок или разовое занятие оплачивается полностью. Оплата частями не предусмотрена."
-      },
-      "en": {
-        "patterns": ["how to pay", "payment", "installments"],
-        "answer": "Payment is in cash after training. Selected block or single session is paid in full. No installments."
-      }
-    },
-    {
-      "intent": "босиком",
-      "title": "Можно ли босиком",
-      "category": "экипировка",
-      "ru": {
-        "patterns": ["босиком можно", "можно босиком", "можно ли тренироваться босиком"],
-        "answer": "Можно босиком, в зале есть специальное покрытие."
-      },
-      "en": {
-        "patterns": ["can I train barefoot", "barefoot"],
-        "answer": "Yes, barefoot is allowed. The hall has special flooring."
-      }
-    },
-    {
-      "intent": "локация",
-      "title": "Локация зала",
-      "category": "локация",
-      "ru": {
-        "patterns": ["как до вас добраться", "где вы находитесь", "как вас найти", "как к вам попасть"],
-        "answer": "Мандрем. 4-этажное здание, последний этаж. Есть парковка. Белый билборд ANDAR FIGHT TECH. Две собаки — не бойтесь, они не кусают."
-      },
-      "en": {
-        "patterns": ["where are you", "location", "how to get there"],
-        "answer": "Mandrem. 4-floor building, top floor. Parking available. White billboard ANDAR FIGHT TECH. Two dogs at entrance — don’t worry, they don’t bite."
-      }
-    },
-    {
-      "intent": "что_взять",
-      "title": "Что взять с собой",
-      "category": "экипировка",
-      "ru": {
-        "patterns": ["что взять с собой", "что с собой брать", "что нужно взять на тренировку", "что взять на первую тренировку", "мне нужно что-то дополнительно брать с собой"],
-        "answer": "Вода (лучше с электролитами), два полотенца (одно для пота, другое для душа), средства гигиены, сменная обувь (по желанию)."
-      },
-      "en": {
-        "patterns": ["what to bring", "what should I take"],
-        "answer": "Bring water (ideally with electrolytes), two towels (one for sweat, one for shower), hygiene items, and clean shoes (optional)."
-      }
-    },
-    {
-      "intent": "группы",
-      "title": "Размер групп",
-      "category": "тренировки",
-      "ru": {
-        "patterns": ["какие группы", "размер группы"],
-        "answer": "Группы средние, до 12 человек. Смешанные — русскоязычные и англоязычные, мужчины и женщины, разный уровень."
-      },
-      "en": {
-        "patterns": ["group size", "how many in group"],
-        "answer": "Groups are medium, up to 12 people. Mixed — Russian/English speakers, men and women, all levels."
-      }
-    },
-    {
-      "intent": "пробная",
-      "title": "Пробная тренировка",
-      "category": "тренировки",
-      "ru": {
-        "patterns": ["есть пробная тренировка", "нужно записываться на пробную", "нужно записываться заранее", "я хочу на пробную прийти", "как попасть на пробную"],
-        "answer": "Есть пробная тренировка — можно прийти бесплатно в любой день (Пн/Ср/Пт 09:00 и 16:30). Запись не требуется. Будьте в зале за 5–10 мин."
-      },
-      "en": {
-        "patterns": ["trial training", "is there free training", "how to try"],
-        "answer": "Yes, we offer a free trial training — Mon/Wed/Fri at 09:00 or 16:30. No booking required. Be in the hall 5–10 min before."
+        "patterns": [
+          "training format",
+          "how are the trainings conducted",
+          "format of the training",
+          "how is a session structured",
+          "what do you do in the trainings",
+          "what is the training format",
+          "what format of trainings"
+        ],
+        "answer": "The format is varied:\nstrength, circuit, GPP (general physical preparation), SPP (special physical preparation), HIIT, EMOM, AMRAP, AFAP,\nwork on bags, on pads, partner work,\ntechnical work (attack/defense), stretching, joint gymnastics.\nBasic model: warm-up → workout → cool-down."
       }
     },
     {
       "intent": "новички",
-      "title": "Для новичков",
-      "category": "тренировки",
+      "title": "новички",
+      "category": "",
       "ru": {
-        "patterns": ["я новичок", "я новенькая", "я немного волнуюсь", "я давно не тренировался", "я давно не тренировалась", "я хочу попробовать"],
-        "answer": "Для новичков программа адаптируется индивидуально. Нагрузку подстроим. В группе разный уровень — комфортно всем."
+        "patterns": [
+          "я новичок",
+          "я впервые",
+          "я давно не занимался",
+          "я волнуюсь",
+          "у меня есть волнение",
+          "никогда не занимался раньше",
+          "никогда не занимался но хотел попробовать",
+          "хочу попробовать",
+          "хотел бы попробовать",
+          "мне интересно попробовать",
+          "когда-то занимался",
+          "но очень давно",
+          "занимался в детстве",
+          "несколько лет уже не занимаюсь",
+          "много лет не занимаюсь",
+          "боюсь что не потяну сразу",
+          "боюсь что не потяну",
+          "какие нагрузки на тренировках"
+        ],
+        "answer": "Для новичков программа адаптируется индивидуально. \nНагрузку подстроим. \nВ группе смешанные уровни — комфортно всем."
       },
       "en": {
-        "patterns": ["I am beginner", "I am new", "I am nervous", "I have not trained for a long time"],
-        "answer": "For beginners, the program is adapted individually. Load is adjusted, groups are mixed level — comfortable for everyone."
+        "patterns": [
+          "I'm a beginner",
+          "it's my first time",
+          "I haven't trained for a long time",
+          "I'm nervous",
+          "I have anxiety",
+          "never trained before",
+          "never trained before but wanted to try",
+          "I want to try",
+          "would like to try",
+          "I'm interested in trying",
+          "used to train once but a long time ago",
+          "trained in childhood",
+          "haven't trained for several years",
+          "haven't trained for many years",
+          "I'm afraid I won't manage right away",
+          "I'm afraid I won't keep up",
+          "what loads are in the trainings"
+        ],
+        "answer": "For beginners, the program is adapted individually.\nWe will adjust the load.\nThe group has mixed levels — comfortable for everyone."
+      }
+    },
+    {
+      "intent": "группы",
+      "title": "группы",
+      "category": "",
+      "ru": {
+        "patterns": [
+          "какие группы",
+          "кто в группе",
+          "из кого состоят группы",
+          "из кого состоит группа",
+          "кто ходит на тренировки",
+          "большие ли группы",
+          "сколько человек в группе",
+          "много ли людей в группе",
+          "какая группа"
+        ],
+        "answer": "Группы средние, до 12 человек. \nСмешанные — русскоязычные и англоязычные, \nмужчины и женщины, разный уровень тренированности"
+      },
+      "en": {
+        "patterns": [
+          "what groups are there",
+          "who is in the group",
+          "what are the groups made of",
+          "who attends the trainings",
+          "are the groups large",
+          "how many people in a group",
+          "are there many people in the group",
+          "what is the group like"
+        ],
+        "answer": "Groups are medium-sized, up to 12 people.\nMixed — Russian-speaking and English-speaking,\nmen and women, different levels of fitness."
+      }
+    },
+    {
+      "intent": "что_взять",
+      "title": "что_взять",
+      "category": "",
+      "ru": {
+        "patterns": [
+          "что с собой взять",
+          "что взять на первую тренировку",
+          "что взять на тренировку",
+          "что должно быть на трениовке",
+          "что мне нужно",
+          "о чем подумать заранее",
+          "что мне пригодится",
+          "что будет не лишним"
+        ],
+        "answer": "Вода, лучше с электролитами, \nдва полотенца (одно для пота, другое для душа), \nшампунь/мыло/гель для душа, \nсменная обувь (по желанию) - можно босиком."
+      },
+      "en": {
+        "patterns": [
+          "what to take with me",
+          "what to take to the first training",
+          "what to take to training",
+          "what should be at the training",
+          "what do I need",
+          "what to think about in advance",
+          "what will be useful",
+          "what won't be superfluous"
+        ],
+        "answer": "Water, preferably with electrolytes,\ntwo towels (one for sweat, one for the shower),\nshampoo/soap/body wash,\nchange of shoes (optional) — you can be barefoot."
+      }
+    },
+    {
+      "intent": "электролиты",
+      "title": "электролиты",
+      "category": "",
+      "ru": {
+        "patterns": [
+          "что такое электролиты",
+          "электролиты",
+          "электролиты это что",
+          "электролиты это"
+        ],
+        "answer": "Электролиты — минеральные вещества \n(натрий, калий, кальций, магний, хлор и др.)"
+      },
+      "en": {
+        "patterns": [
+          "what are electrolytes",
+          "electrolytes",
+          "what are electrolytes",
+          "electrolytes — what is it"
+        ],
+        "answer": "Electrolytes are mineral substances\n(sodium, potassium, calcium, magnesium, chloride, etc.)"
+      }
+    },
+    {
+      "intent": "зачем_нужны_электролиты",
+      "title": "зачем_нужны_электролиты",
+      "category": "",
+      "ru": {
+        "patterns": [
+          "Зачем электролиты нужны",
+          "для чего электролиты нужны",
+          "зачем электролиты",
+          "что электролиты дают",
+          "почему надо купить электролиты",
+          "зачем надо употреблять электролиты",
+          "зачем нужны электролиты",
+          "для чего нужны электролиты",
+          "зачем пить электролиты",
+          "зачем их пить",
+          "для чего их пить"
+        ],
+        "answer": "Они поддерживают баланс воды, работу нервов и мышц"
+      },
+      "en": {
+        "patterns": [
+          "Why are electrolytes needed?",
+          "What are electrolytes needed for?",
+          "Why electrolytes?",
+          "What do electrolytes do?",
+          "Why should I buy electrolytes?",
+          "Why should one consume electrolytes?",
+          "Why are electrolytes necessary?",
+          "What are electrolytes for?",
+          "Why drink electrolytes?",
+          "Why drink them?",
+          "What are they for drinking?"
+        ],
+        "answer": "They maintain fluid balance and support nerve and muscle function."
+      }
+    },
+    {
+      "intent": "где_купить_электролиты",
+      "title": "где_купить_электролиты",
+      "category": "",
+      "ru": {
+        "patterns": [
+          "Где их купить",
+          "где взять электролиты",
+          "где моно купить",
+          "где можно взять",
+          "где купить электролиты"
+        ],
+        "answer": "Купить можно в любой аптеке (oral salt, electrolytes) \n~₹25 за пакетик на 1 литр питьевой воды"
+      },
+      "en": {
+        "patterns": [
+          "Where can I buy them?",
+          "Where to get electrolytes?",
+          "Where can one buy them?",
+          "Where can I get them?",
+          "Where to buy electrolytes?"
+        ],
+        "answer": "You can buy them at any pharmacy (oral salt, electrolytes)\n~₹25 per sachet for 1 liter of drinking water"
       }
     },
     {
       "intent": "инвентарь",
-      "title": "Инвентарь",
-      "category": "экипировка",
+      "title": "инвентарь",
+      "category": "",
       "ru": {
-        "patterns": ["инвентарь", "у вас есть инвентарь", "у вас есть перчатки", "у меня нет перчаток", "мне нужны бинты", "у вас есть оборудование"],
-        "answer": "Инвентарь в наличии имеется. Перчатки и бинты выдаём для занятий. Со временем вы сможете приобрести свои."
+        "patterns": [
+          "у меня нет перчаток",
+          "у меня нет бинтов",
+          "нет перчаток",
+          "нет бинтов",
+          "нет снаряжения"
+        ],
+        "answer": "Инвентарь в наличии имеется. \nСо временем вы сможете приобрести свои"
       },
       "en": {
-        "patterns": ["equipment", "do you have gloves", "I don't have gloves", "do I need wraps"],
-        "answer": "Equipment is available. Gloves and wraps are provided. Later you may buy your own."
+        "patterns": [
+          "I don't have gloves",
+          "I don't have bandages",
+          "no gloves",
+          "no bandages",
+          "no equipment"
+        ],
+        "answer": "Equipment is available.\nOver time you will be able to get your own."
       }
     },
     {
-      "intent": "где_купить",
-      "title": "Где купить экипировку",
-      "category": "экипировка",
+      "intent": "где_можно_купить_инвентарь",
+      "title": "где_можно_купить_инвентарь",
+      "category": "",
       "ru": {
-        "patterns": ["где купить перчатки", "а где можно купить перчатки", "где купить инвентарь", "где я могу купить"],
-        "answer": "Купить экипировку можно на Amazon или Flipkart. В Гоа есть локальные спортивные магазины."
+        "patterns": [
+          "где можно купить инвентарь",
+          "где можно купить перчатки",
+          "где можно купить бинты",
+          "где можно купить капу",
+          "где можно купить шорты",
+          "где можно купить рашгард",
+          "где можно купить тайтсы",
+          "где можно купить тайтцы",
+          "где можно купить тайцы",
+          "где можно купить шингарды",
+          "где можно купить защиту",
+          "где можно купит футы"
+        ],
+        "answer": "Амазон (Amazon) или Флипкарт (Flipkart)"
       },
       "en": {
-        "patterns": ["where to buy gloves", "where to buy equipment"],
-        "answer": "You can buy equipment on Amazon or Flipkart. In Goa, there are also local sports shops."
+        "patterns": [
+          "Where can I buy equipment?",
+          "Where can I buy gloves?",
+          "Where can I buy bandages?",
+          "Where can I buy a mouthguard?",
+          "Where can I buy shorts?",
+          "Where can I buy a rash guard?",
+          "Where can I buy tights?",
+          "Where can I buy tights?",
+          "Where can I buy tights?",
+          "Where can I buy shin guards?",
+          "Where can I buy protection?",
+          "Where can I buy foot guards?"
+        ],
+        "answer": "Amazon or Flipkart"
+      }
+    },
+    {
+      "intent": "локация",
+      "title": "локация",
+      "category": "",
+      "ru": {
+        "patterns": [
+          "где вы находитесь",
+          "как вас найти",
+          "локация",
+          "от парковки куда идти",
+          "как до вас добраться",
+          "как до вас доехать",
+          "где вы находитесь территориально",
+          "как далеко вы находитесь от"
+        ],
+        "answer": "Мандрем. \n4-этажное здание, последний этаж, вход один. \nЕсть парковка. \nБелый билборд ANDAR FIGHT TECH. \nЗаранее посмотрите как добираться, \nправильно рассчитайте свое время\n"
+      },
+      "en": {
+        "patterns": [
+          "Where are you located?",
+          "How can I find you?",
+          "Location",
+          "From the parking",
+          "where to go?",
+          "How do I get to you?",
+          "How can I get to you by car?",
+          "Where are you located territorially?",
+          "How far are you from...?"
+        ],
+        "answer": "Mandrem.\n4-storey building, top floor, single entrance.\nThere is parking.\nWhite billboard ANDAR FIGHT TECH.\nCheck directions in advance,\nplan your time accordingly."
       }
     },
     {
       "intent": "расписание",
-      "title": "Расписание тренировок",
-      "category": "тренировки",
+      "title": "расписание",
+      "category": "",
       "ru": {
-        "patterns": ["когда у вас тренировки", "по каким дням тренировки", "расписание"],
-        "answer": "Кикбоксинг (группы): Пн/Ср/Пт — 09:00 и 16:30.\nКроссфит: Ср/Чт/Сб — утро (уточнить).\nПриходите за 5–10 мин."
+        "patterns": [
+          "расписание",
+          "какое расписание",
+          "в какие дни",
+          "по каким дням",
+          "в какие дни вы работаете",
+          "по каким дням вы работаете",
+          "тренировочные дни",
+          "когда идут тренировки",
+          "в субботу работаете",
+          "в выходные работаете",
+          "во вторник работаете",
+          "в четверг работаете",
+          "когда можно приехать на тренировку",
+          "в какой день можно приехать на тренировку",
+          "когда можно прийти на тренировку",
+          "когда можно посетить тренировку",
+          "по каким дням вы тренируетесь"
+        ],
+        "answer": "Пн/Ср/Пт — 09:00 и 16:30\nПриходите за 5–10 минут до начала тренировки\n "
       },
       "en": {
-        "patterns": ["schedule", "when are trainings", "what days are trainings"],
-        "answer": "Kickboxing (groups): Mon/Wed/Fri — 09:00 and 16:30.\nCrossFit: Wed/Thu/Sat — morning (time to be confirmed).\nArrive 5–10 min early."
+        "patterns": [
+          "Schedule",
+          "What is the schedule?",
+          "On which days?",
+          "Which days do you operate?",
+          "On which days do you work?",
+          "Training days",
+          "When are the trainings?",
+          "Are you open on Saturday?",
+          "Are you open on weekends?",
+          "Are you open on Tuesday?",
+          "Are you open on Thursday?",
+          "When can I come for a training?",
+          "Which day can I come for a training?",
+          "When can I attend a training?",
+          "When can I visit a training?",
+          "On which days do you train?"
+        ],
+        "answer": "Mon/Wed/Fri — 09:00 and 16:30\nArrive 5–10 minutes before the start of the session"
+      }
+    },
+    {
+      "intent": "предварительная_запись",
+      "title": "предварительная_запись",
+      "category": "",
+      "ru": {
+        "patterns": [
+          "Нужно ли заранее записываться",
+          "заранее записываться",
+          "предварительно записываться",
+          "нужна запись на тренировку",
+          "есть ли какая-то запись",
+          "записываться нужно",
+          "запись",
+          "заранее",
+          "нужно предупреждать заранее",
+          "предварительная запись"
+        ],
+        "answer": "Предварительной записи нет, \nпросто приходите на тренировку, \nбез опозданий"
+      },
+      "en": {
+        "patterns": [
+          "Do I need to book in advance?",
+          "Do I need to sign up in advance?",
+          "Book in advance?",
+          "Is there advance booking for training?",
+          "Is there any sign-up?",
+          "Do I need to register?",
+          "Booking",
+          "In advance",
+          "Do I need to notify in advance?",
+          "Pre-booking"
+        ],
+        "answer": "No advance booking.\nJust come to the training, without being late."
       }
     },
     {
       "intent": "длительность",
-      "title": "Длительность тренировки",
-      "category": "тренировки",
+      "title": "длительность",
+      "category": "",
       "ru": {
-        "patterns": ["сколько длится тренировка", "длительность занятия", "сколько идет тренировка"],
-        "answer": "Тренировка длится 90 минут. Индивидуальные занятия — 60 минут."
+        "patterns": [
+          "сколько идёт тренировка",
+          "сколько идёт занятие",
+          "сколько длится тренировка",
+          "сколько минут тренировка",
+          "сколько минут занятие",
+          "сколько по времени идет класс",
+          "длительность тренировки"
+        ],
+        "answer": "Групповая тренировка длится 90 минут, \nиндивидуальная — 60 минут"
       },
       "en": {
-        "patterns": ["how long is training", "duration", "training length"],
-        "answer": "Group training lasts 90 minutes. Individual sessions — 60 minutes."
+        "patterns": [
+          "How long does the training last?",
+          "How long does the session last?",
+          "How long is the training?",
+          "How many minutes is the training?",
+          "How many minutes is the session?",
+          "How long does the class last?",
+          "Duration of the training"
+        ],
+        "answer": "Group training lasts 90 minutes,\nindividual — 60 minutes"
       }
     },
     {
-      "intent": "парковка",
-      "title": "Парковка",
-      "category": "локация",
+      "intent": "прайс",
+      "title": "прайс",
+      "category": "",
       "ru": {
-        "patterns": ["есть парковка", "можно припарковаться"],
-        "answer": "Да, парковка есть у здания. Белый билборд ANDAR FIGHT TECH рядом."
+        "patterns": [
+          "прайс",
+          "цена",
+          "сколько стоит",
+          "цены",
+          "стоимость",
+          "какая стоимость",
+          "сколько денег",
+          "что по деньгам",
+          "что по суммам",
+          "какие суммы"
+        ],
+        "answer": "Цены до 01.11.2025: \n\nБлок 12 —4000 \nБлок 8 —  3000 \nБлок 4 —  2000  \nразовое — 600 \n\nЦены после 01.11.2025: \n\nБлок 12 — 4800 \nБлок 8 —   3600  \nБлок 4 —   2000 \nразовое —  600 \n\nЛюбой блок тренировок действует \n4 недели с момента первой тренировки"
       },
       "en": {
-        "patterns": ["is there parking", "can I park"],
-        "answer": "Yes, parking is available at the building. White billboard ANDAR FIGHT TECH is nearby."
+        "patterns": [
+          "price",
+          "price list",
+          "how much does it cost",
+          "prices",
+          "cost",
+          "what is the cost",
+          "how much money",
+          "what about money",
+          "what about amounts",
+          "what sums"
+        ],
+        "answer": "Prices until 01.11.2025:\n\nBlock 12 — 4000\nBlock 8 — 3000\nBlock 4 — 2000\nSingle session — 600\n\nPrices after 01.11.2025:\n\nBlock 12 — 4800\nBlock 8 — 3600\nBlock 4 — 2000\nSingle session — 600\n\nAny training block is valid for 4 weeks from the date of the first training."
+      }
+    },
+    {
+      "intent": "пробная",
+      "title": "пробная",
+      "category": "",
+      "ru": {
+        "patterns": [
+          "пробная тренировка",
+          "хочу на пробную",
+          "когда можно прийти попробовать",
+          "пробная есть",
+          "есть ли пробная",
+          "можно попробовать",
+          "хотелось бы прийти на пробную"
+        ],
+        "answer": "Пробная — бесплатная: приходите \nПн/Ср/Пт в 09:00 или 16:30. \nБудьте в зале за 5–10 минут до начала занятий. \nЗапись не нужна"
+      },
+      "en": {
+        "patterns": [
+          "trial session",
+          "I want a trial",
+          "when can I come try",
+          "is there a trial",
+          "do you have a trial",
+          "can I try",
+          "would like to come for a trial"
+        ],
+        "answer": "Trial session — free: come\nMon/Wed/Fri at 09:00 or 16:30.\nBe in the gym 5–10 minutes before the class starts.\nNo registration required."
+      }
+    },
+    {
+      "intent": "оплата",
+      "title": "оплата",
+      "category": "",
+      "ru": {
+        "patterns": [
+          "как оплатить",
+          "можно частями",
+          "как можно оплатить",
+          "где можно оплатить",
+          "как оплачивать",
+          "оплата"
+        ],
+        "answer": "\n\nОплата — после тренировки, наличными. \nБлок или разовое посещение оплачивается полностью. \nЧастичной оплаты нет"
+      },
+      "en": {
+        "patterns": [
+          "how to pay",
+          "can I pay in parts",
+          "how can I pay",
+          "where can I pay",
+          "how to make payment",
+          "payment"
+        ],
+        "answer": "Payment — in cash after the training.\nA block or a single session must be paid in full.\nNo partial payments."
+      }
+    },
+    {
+      "intent": "язык",
+      "title": "язык",
+      "category": "",
+      "ru": {
+        "patterns": [
+          "на каком языке тренировки",
+          "на каком языке идут тренировки",
+          "на каком языке проводятся тренировки",
+          "на каком языке ведутся тренировки"
+        ],
+        "answer": "\nЗанятия — на русском. \nПри необходимости одновременно на русском и английском, \nесли на тренировке есть англоговорящие ученики\n"
+      },
+      "en": {
+        "patterns": [
+          "what language are the trainings in",
+          "in what language are the trainings",
+          "what language are the classes held in",
+          "in what language are the classes conducted"
+        ],
+        "answer": "Classes are in Russian.\nIf necessary, they can be held in Russian and English simultaneously if there are English-speaking students in the session."
       }
     }
   ]
