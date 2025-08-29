@@ -1,1 +1,1 @@
-Aug 29 15:44:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[185785]: === UAFT tg_runner started ===
+Aug 29 15:48:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[185785]: [AI] 2025-08-29 15:48:39,937 ERROR: LLM fallback failed: 400 Client Error: Bad Request for url: https://api.openai.com/v1/chat/completions
