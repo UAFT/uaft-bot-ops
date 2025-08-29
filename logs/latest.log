@@ -1,6 +1,1 @@
-Aug 29 08:25:16 ubuntu-s-1vcpu-1gb-sgp1-01 python3[148313]: Traceback (most recent call last):
-Aug 29 08:25:16 ubuntu-s-1vcpu-1gb-sgp1-01 python3[148313]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 43, in main
-Aug 29 08:25:16 ubuntu-s-1vcpu-1gb-sgp1-01 python3[148313]:     resp.raise_for_status()
-Aug 29 08:25:16 ubuntu-s-1vcpu-1gb-sgp1-01 python3[148313]:   File "/home/uaft/.local/lib/python3.10/site-packages/requests/models.py", line 1026, in raise_for_status
-Aug 29 08:25:16 ubuntu-s-1vcpu-1gb-sgp1-01 python3[148313]:     raise HTTPError(http_error_msg, response=self)
-Aug 29 08:25:16 ubuntu-s-1vcpu-1gb-sgp1-01 python3[148313]: requests.exceptions.HTTPError: 409 Client Error: Conflict for url: https://api.telegram.org/bot8075960342:AAElNMpncauiSVyWXYLTOB45BqCiBVLBmuc/getUpdates?timeout=25&offset=131648246
+-- No entries --
