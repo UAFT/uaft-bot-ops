@@ -1,1 +1,18 @@
--- No entries --
+Aug 29 17:32:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[186632]: [AI] 2025-08-29 17:32:03,903 ERROR: LLM fallback failed: 400 Client Error: Bad Request for url: https://api.openai.com/v1/chat/completions
+Aug 29 17:32:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[189137]: === UAFT tg_runner started ===
+Aug 29 17:32:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[189137]: [AI] 2025-08-29 17:32:47,350 ERROR: route() fatal: cannot import name 'intent_answer' from 'uaft_intent_middleware' (/home/uaft/uaft_project_50lite/uaft_intent_middleware.py)
+Aug 29 17:32:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[189137]: Traceback (most recent call last):
+Aug 29 17:32:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[189137]:   File "/home/uaft/uaft_project_50lite/ai_supervisor.py", line 98, in route
+Aug 29 17:32:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[189137]:     from uaft_intent_middleware import intent_answer as _l0_intent
+Aug 29 17:32:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[189137]: ImportError: cannot import name 'intent_answer' from 'uaft_intent_middleware' (/home/uaft/uaft_project_50lite/uaft_intent_middleware.py)
+Aug 29 17:33:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[189137]: [AI] 2025-08-29 17:33:16,771 ERROR: route() fatal: cannot import name 'intent_answer' from 'uaft_intent_middleware' (/home/uaft/uaft_project_50lite/uaft_intent_middleware.py)
+Aug 29 17:33:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[189137]: Traceback (most recent call last):
+Aug 29 17:33:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[189137]:   File "/home/uaft/uaft_project_50lite/ai_supervisor.py", line 98, in route
+Aug 29 17:33:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[189137]:     from uaft_intent_middleware import intent_answer as _l0_intent
+Aug 29 17:33:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[189137]: ImportError: cannot import name 'intent_answer' from 'uaft_intent_middleware' (/home/uaft/uaft_project_50lite/uaft_intent_middleware.py)
+Aug 29 17:34:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[189227]: === UAFT tg_runner started ===
+Aug 29 17:34:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[189227]: [AI] 2025-08-29 17:34:41,630 ERROR: route() fatal: cannot import name 'intent_answer' from 'uaft_intent_middleware' (/home/uaft/uaft_project_50lite/uaft_intent_middleware.py)
+Aug 29 17:34:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[189227]: Traceback (most recent call last):
+Aug 29 17:34:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[189227]:   File "/home/uaft/uaft_project_50lite/ai_supervisor.py", line 98, in route
+Aug 29 17:34:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[189227]:     from uaft_intent_middleware import intent_answer as _l0_intent
+Aug 29 17:34:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[189227]: ImportError: cannot import name 'intent_answer' from 'uaft_intent_middleware' (/home/uaft/uaft_project_50lite/uaft_intent_middleware.py)
