@@ -1,160 +1,22 @@
-Aug 29 15:05:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[183614]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[183622]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[183625]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[183627]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[183628]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[183630]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[183631]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[183632]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[183633]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[183634]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[183635]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[183636]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[183639]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[183640]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[183642]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[183644]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[183645]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[183646]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[183647]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[183648]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[183649]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[183650]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[183654]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[183655]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[183656]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:05:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[183657]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[183678]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[183716]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[183717]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[183718]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[183719]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[183720]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[183721]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[183722]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[183723]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[183727]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[183728]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[183729]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[183731]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[183733]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[183736]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[183737]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[183738]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[183739]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[183740]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[183741]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[183742]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[183743]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[183745]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[183746]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[183748]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:06:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[183749]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[183750]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[183751]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[183752]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[183753]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[183754]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[183757]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[183758]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[183760]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[183761]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[183763]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[183764]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[183765]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[183766]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[183767]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[183768]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[183769]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[183772]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[183773]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[183775]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[183777]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[183781]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[183782]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[183783]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[183784]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[183841]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[183842]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:07:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[183843]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[183846]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[183847]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[183849]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[183850]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[183852]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[183853]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[183854]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[183855]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[183856]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[183857]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[183858]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[183859]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[183862]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[183863]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[183865]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[183867]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[183868]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[183869]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[183870]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[183874]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[183875]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[183876]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[183877]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[183880]: ❌ Не могу импортировать ai_supervisor: from __future__ imports must occur at the beginning of the file (ai_supervisor.py, line 4)
-Aug 29 15:08:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: === UAFT tg_runner started ===
-Aug 29 15:08:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:08:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:08:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:08:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:08:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:08:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:08:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:08:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:08:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:08:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:08:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:08:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:08:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:08:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:08:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:08:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:09:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:09:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:09:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:09:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:09:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:09:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:09:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:09:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:09:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:09:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:09:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:09:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:09:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:09:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:09:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:09:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:09:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:09:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:09:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:09:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:09:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:09:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:09:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:09:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:09:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:09:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:09:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:09:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:09:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:09:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:09:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:09:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:09:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:09:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:09:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:09:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
-Aug 29 15:09:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: Traceback (most recent call last):
-Aug 29 15:09:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
-Aug 29 15:09:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]:     res = AI.route(event)  # ожидаем dict
-Aug 29 15:09:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[183938]: AttributeError: module 'ai_supervisor' has no attribute 'route'
+Aug 29 15:10:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]: === UAFT tg_runner started ===
+Aug 29 15:10:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]: Traceback (most recent call last):
+Aug 29 15:10:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
+Aug 29 15:10:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]:     res = AI.route(event)  # ожидаем dict
+Aug 29 15:10:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]: AttributeError: module 'ai_supervisor' has no attribute 'route'
+Aug 29 15:10:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]: Traceback (most recent call last):
+Aug 29 15:10:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
+Aug 29 15:10:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]:     res = AI.route(event)  # ожидаем dict
+Aug 29 15:10:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]: AttributeError: module 'ai_supervisor' has no attribute 'route'
+Aug 29 15:10:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]: Traceback (most recent call last):
+Aug 29 15:10:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
+Aug 29 15:10:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]:     res = AI.route(event)  # ожидаем dict
+Aug 29 15:10:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[183979]: AttributeError: module 'ai_supervisor' has no attribute 'route'
+Aug 29 15:12:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[184091]: === UAFT tg_runner started ===
+Aug 29 15:13:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[184091]: Traceback (most recent call last):
+Aug 29 15:13:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[184091]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
+Aug 29 15:13:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[184091]:     res = AI.route(event)  # ожидаем dict
+Aug 29 15:13:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[184091]: AttributeError: module 'ai_supervisor' has no attribute 'route'
+Aug 29 15:13:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[184091]: Traceback (most recent call last):
+Aug 29 15:13:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[184091]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
+Aug 29 15:13:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[184091]:     res = AI.route(event)  # ожидаем dict
+Aug 29 15:13:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[184091]: AttributeError: module 'ai_supervisor' has no attribute 'route'
