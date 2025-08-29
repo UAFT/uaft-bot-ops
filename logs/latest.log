@@ -1,11 +1,1 @@
-Aug 29 17:35:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[189227]: [AI] 2025-08-29 17:35:31,668 ERROR: route() fatal: cannot import name 'intent_answer' from 'uaft_intent_middleware' (/home/uaft/uaft_project_50lite/uaft_intent_middleware.py)
-Aug 29 17:35:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[189227]: Traceback (most recent call last):
-Aug 29 17:35:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[189227]:   File "/home/uaft/uaft_project_50lite/ai_supervisor.py", line 98, in route
-Aug 29 17:35:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[189227]:     from uaft_intent_middleware import intent_answer as _l0_intent
-Aug 29 17:35:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[189227]: ImportError: cannot import name 'intent_answer' from 'uaft_intent_middleware' (/home/uaft/uaft_project_50lite/uaft_intent_middleware.py)
-Aug 29 17:36:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[189338]: === UAFT tg_runner started ===
-Aug 29 17:37:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[189338]: [AI] 2025-08-29 17:37:39,656 ERROR: LLM fallback failed: 400 Client Error: Bad Request for url: https://api.openai.com/v1/chat/completions
-Aug 29 17:37:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[189338]: [AI] 2025-08-29 17:37:45,172 ERROR: LLM fallback failed: 400 Client Error: Bad Request for url: https://api.openai.com/v1/chat/completions
-Aug 29 17:38:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[189338]: [AI] 2025-08-29 17:38:20,524 ERROR: LLM fallback failed: 400 Client Error: Bad Request for url: https://api.openai.com/v1/chat/completions
-Aug 29 17:38:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[189338]: [AI] 2025-08-29 17:38:27,011 ERROR: LLM fallback failed: 400 Client Error: Bad Request for url: https://api.openai.com/v1/chat/completions
-Aug 29 17:38:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[189338]: [AI] 2025-08-29 17:38:33,956 ERROR: LLM fallback failed: 400 Client Error: Bad Request for url: https://api.openai.com/v1/chat/completions
+-- No entries --
