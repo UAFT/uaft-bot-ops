@@ -1,2 +1,16 @@
-Aug 30 20:28:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[299385]: === UAFT tg_runner started ===
-Aug 30 20:29:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]: === UAFT tg_runner started ===
+Aug 30 20:30:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]: Traceback (most recent call last):
+Aug 30 20:30:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
+Aug 30 20:30:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]:     res = AI.route(event)  # ожидаем dict
+Aug 30 20:30:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]: AttributeError: module 'ai_supervisor' has no attribute 'route'
+Aug 30 20:32:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]: Traceback (most recent call last):
+Aug 30 20:32:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
+Aug 30 20:32:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]:     res = AI.route(event)  # ожидаем dict
+Aug 30 20:32:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]: AttributeError: module 'ai_supervisor' has no attribute 'route'
+Aug 30 20:34:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]: Traceback (most recent call last):
+Aug 30 20:34:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
+Aug 30 20:34:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]:     res = AI.route(event)  # ожидаем dict
+Aug 30 20:34:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]: AttributeError: module 'ai_supervisor' has no attribute 'route'
+Aug 30 20:34:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]: Traceback (most recent call last):
+Aug 30 20:34:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
+Aug 30 20:34:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]:     res = AI.route(event)  # ожидаем dict
+Aug 30 20:34:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]: AttributeError: module 'ai_supervisor' has no attribute 'route'
