@@ -1,460 +1,55 @@
-Aug 30 21:35:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[304549]: Traceback (most recent call last):
-Aug 30 21:35:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[304549]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[304549]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[304549]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[304572]: Traceback (most recent call last):
-Aug 30 21:35:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[304572]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[304572]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[304572]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[304582]: Traceback (most recent call last):
-Aug 30 21:35:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[304582]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[304582]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[304582]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[304585]: Traceback (most recent call last):
-Aug 30 21:35:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[304585]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[304585]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[304585]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[304589]: Traceback (most recent call last):
-Aug 30 21:35:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[304589]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[304589]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[304589]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[304590]: Traceback (most recent call last):
-Aug 30 21:35:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[304590]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[304590]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[304590]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[304592]: Traceback (most recent call last):
-Aug 30 21:35:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[304592]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[304592]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[304592]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[304595]: Traceback (most recent call last):
-Aug 30 21:35:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[304595]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[304595]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[304595]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[304597]: Traceback (most recent call last):
-Aug 30 21:35:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[304597]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[304597]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[304597]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[304599]: Traceback (most recent call last):
-Aug 30 21:35:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[304599]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[304599]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[304599]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[304601]: Traceback (most recent call last):
-Aug 30 21:35:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[304601]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[304601]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[304601]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[304605]: Traceback (most recent call last):
-Aug 30 21:35:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[304605]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[304605]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[304605]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[304608]: Traceback (most recent call last):
-Aug 30 21:35:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[304608]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[304608]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[304608]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[304610]: Traceback (most recent call last):
-Aug 30 21:35:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[304610]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[304610]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[304610]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[304613]: Traceback (most recent call last):
-Aug 30 21:35:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[304613]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[304613]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[304613]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[304615]: Traceback (most recent call last):
-Aug 30 21:35:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[304615]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[304615]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[304615]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[304617]: Traceback (most recent call last):
-Aug 30 21:35:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[304617]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[304617]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[304617]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[304620]: Traceback (most recent call last):
-Aug 30 21:35:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[304620]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[304620]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[304620]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[304622]: Traceback (most recent call last):
-Aug 30 21:35:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[304622]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[304622]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[304622]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[304626]: Traceback (most recent call last):
-Aug 30 21:35:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[304626]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[304626]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[304626]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[304631]: Traceback (most recent call last):
-Aug 30 21:35:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[304631]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[304631]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[304631]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[304633]: Traceback (most recent call last):
-Aug 30 21:35:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[304633]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[304633]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[304633]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:35:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[304635]: Traceback (most recent call last):
-Aug 30 21:35:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[304635]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:35:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[304635]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:35:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[304635]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[304639]: Traceback (most recent call last):
-Aug 30 21:36:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[304639]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[304639]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[304639]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[304640]: Traceback (most recent call last):
-Aug 30 21:36:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[304640]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[304640]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[304640]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[304642]: Traceback (most recent call last):
-Aug 30 21:36:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[304642]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[304642]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[304642]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[304645]: Traceback (most recent call last):
-Aug 30 21:36:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[304645]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[304645]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[304645]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[304650]: Traceback (most recent call last):
-Aug 30 21:36:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[304650]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[304650]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[304650]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[304652]: Traceback (most recent call last):
-Aug 30 21:36:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[304652]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[304652]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[304652]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[304655]: Traceback (most recent call last):
-Aug 30 21:36:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[304655]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[304655]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[304655]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[304658]: Traceback (most recent call last):
-Aug 30 21:36:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[304658]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[304658]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[304658]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[304660]: Traceback (most recent call last):
-Aug 30 21:36:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[304660]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[304660]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[304660]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[304662]: Traceback (most recent call last):
-Aug 30 21:36:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[304662]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[304662]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[304662]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[304665]: Traceback (most recent call last):
-Aug 30 21:36:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[304665]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[304665]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[304665]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[304667]: Traceback (most recent call last):
-Aug 30 21:36:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[304667]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[304667]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[304667]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[304669]: Traceback (most recent call last):
-Aug 30 21:36:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[304669]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[304669]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[304669]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[304673]: Traceback (most recent call last):
-Aug 30 21:36:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[304673]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[304673]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[304673]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[304676]: Traceback (most recent call last):
-Aug 30 21:36:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[304676]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[304676]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[304676]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[304679]: Traceback (most recent call last):
-Aug 30 21:36:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[304679]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[304679]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[304679]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[304683]: Traceback (most recent call last):
-Aug 30 21:36:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[304683]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[304683]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[304683]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[304687]: Traceback (most recent call last):
-Aug 30 21:36:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[304687]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[304687]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[304687]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[304689]: Traceback (most recent call last):
-Aug 30 21:36:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[304689]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[304689]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[304689]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[304755]: Traceback (most recent call last):
-Aug 30 21:36:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[304755]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[304755]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[304755]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[304760]: Traceback (most recent call last):
-Aug 30 21:36:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[304760]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[304760]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[304760]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:36:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[304762]: Traceback (most recent call last):
-Aug 30 21:36:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[304762]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:36:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[304762]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:36:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[304762]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[304765]: Traceback (most recent call last):
-Aug 30 21:37:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[304765]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[304765]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[304765]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[304769]: Traceback (most recent call last):
-Aug 30 21:37:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[304769]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[304769]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[304769]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[304772]: Traceback (most recent call last):
-Aug 30 21:37:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[304772]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[304772]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[304772]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[304776]: Traceback (most recent call last):
-Aug 30 21:37:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[304776]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[304776]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[304776]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[304777]: Traceback (most recent call last):
-Aug 30 21:37:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[304777]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[304777]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[304777]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[304779]: Traceback (most recent call last):
-Aug 30 21:37:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[304779]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[304779]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[304779]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[304783]: Traceback (most recent call last):
-Aug 30 21:37:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[304783]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[304783]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[304783]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[304784]: Traceback (most recent call last):
-Aug 30 21:37:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[304784]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[304784]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[304784]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[304787]: Traceback (most recent call last):
-Aug 30 21:37:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[304787]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[304787]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[304787]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[304791]: Traceback (most recent call last):
-Aug 30 21:37:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[304791]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[304791]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[304791]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[304795]: Traceback (most recent call last):
-Aug 30 21:37:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[304795]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[304795]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[304795]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[304798]: Traceback (most recent call last):
-Aug 30 21:37:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[304798]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[304798]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[304798]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[304802]: Traceback (most recent call last):
-Aug 30 21:37:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[304802]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[304802]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[304802]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[304804]: Traceback (most recent call last):
-Aug 30 21:37:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[304804]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[304804]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[304804]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[304806]: Traceback (most recent call last):
-Aug 30 21:37:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[304806]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[304806]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[304806]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[304809]: Traceback (most recent call last):
-Aug 30 21:37:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[304809]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[304809]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[304809]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[304811]: Traceback (most recent call last):
-Aug 30 21:37:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[304811]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[304811]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[304811]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[304814]: Traceback (most recent call last):
-Aug 30 21:37:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[304814]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[304814]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[304814]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[304817]: Traceback (most recent call last):
-Aug 30 21:37:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[304817]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[304817]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[304817]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[304820]: Traceback (most recent call last):
-Aug 30 21:37:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[304820]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[304820]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[304820]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[304822]: Traceback (most recent call last):
-Aug 30 21:37:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[304822]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[304822]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[304822]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[304824]: Traceback (most recent call last):
-Aug 30 21:37:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[304824]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[304824]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[304824]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:37:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[304828]: Traceback (most recent call last):
-Aug 30 21:37:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[304828]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:37:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[304828]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:37:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[304828]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[304831]: Traceback (most recent call last):
-Aug 30 21:38:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[304831]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[304831]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[304831]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[304833]: Traceback (most recent call last):
-Aug 30 21:38:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[304833]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[304833]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[304833]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[304836]: Traceback (most recent call last):
-Aug 30 21:38:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[304836]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[304836]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[304836]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[304838]: Traceback (most recent call last):
-Aug 30 21:38:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[304838]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[304838]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[304838]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[304841]: Traceback (most recent call last):
-Aug 30 21:38:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[304841]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[304841]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[304841]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[304845]: Traceback (most recent call last):
-Aug 30 21:38:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[304845]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[304845]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[304845]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[304847]: Traceback (most recent call last):
-Aug 30 21:38:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[304847]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[304847]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[304847]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[304849]: Traceback (most recent call last):
-Aug 30 21:38:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[304849]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[304849]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[304849]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[304853]: Traceback (most recent call last):
-Aug 30 21:38:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[304853]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[304853]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[304853]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[304856]: Traceback (most recent call last):
-Aug 30 21:38:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[304856]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[304856]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[304856]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[304858]: Traceback (most recent call last):
-Aug 30 21:38:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[304858]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[304858]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[304858]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[304860]: Traceback (most recent call last):
-Aug 30 21:38:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[304860]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[304860]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[304860]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[304863]: Traceback (most recent call last):
-Aug 30 21:38:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[304863]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[304863]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[304863]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[304866]: Traceback (most recent call last):
-Aug 30 21:38:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[304866]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[304866]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[304866]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[304870]: Traceback (most recent call last):
-Aug 30 21:38:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[304870]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[304870]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[304870]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[304874]: Traceback (most recent call last):
-Aug 30 21:38:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[304874]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[304874]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[304874]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[304936]: Traceback (most recent call last):
-Aug 30 21:38:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[304936]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[304936]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[304936]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[305004]: Traceback (most recent call last):
-Aug 30 21:38:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[305004]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[305004]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[305004]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[305011]: Traceback (most recent call last):
-Aug 30 21:38:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[305011]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[305011]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[305011]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[305013]: Traceback (most recent call last):
-Aug 30 21:38:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[305013]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[305013]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[305013]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[305014]: Traceback (most recent call last):
-Aug 30 21:38:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[305014]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[305014]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[305014]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[305018]: Traceback (most recent call last):
-Aug 30 21:38:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[305018]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[305018]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[305018]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[305020]: Traceback (most recent call last):
-Aug 30 21:38:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[305020]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[305020]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[305020]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:38:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[305023]: Traceback (most recent call last):
-Aug 30 21:38:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[305023]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:38:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[305023]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:38:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[305023]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[305028]: Traceback (most recent call last):
-Aug 30 21:39:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[305028]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[305028]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[305028]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[305030]: Traceback (most recent call last):
-Aug 30 21:39:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[305030]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[305030]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[305030]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[305032]: Traceback (most recent call last):
-Aug 30 21:39:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[305032]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[305032]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[305032]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[305037]: Traceback (most recent call last):
-Aug 30 21:39:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[305037]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[305037]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[305037]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[305039]: Traceback (most recent call last):
-Aug 30 21:39:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[305039]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[305039]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[305039]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[305041]: Traceback (most recent call last):
-Aug 30 21:39:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[305041]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[305041]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[305041]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[305044]: Traceback (most recent call last):
-Aug 30 21:39:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[305044]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[305044]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[305044]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[305046]: Traceback (most recent call last):
-Aug 30 21:39:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[305046]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[305046]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[305046]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[305048]: Traceback (most recent call last):
-Aug 30 21:39:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[305048]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[305048]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[305048]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[305052]: Traceback (most recent call last):
-Aug 30 21:39:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[305052]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[305052]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[305052]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[305055]: Traceback (most recent call last):
-Aug 30 21:39:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[305055]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[305055]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[305055]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[305057]: Traceback (most recent call last):
-Aug 30 21:39:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[305057]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[305057]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[305057]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[305060]: Traceback (most recent call last):
-Aug 30 21:39:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[305060]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[305060]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[305060]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[305062]: Traceback (most recent call last):
-Aug 30 21:39:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[305062]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[305062]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[305062]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[305064]: Traceback (most recent call last):
-Aug 30 21:39:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[305064]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[305064]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[305064]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[305067]: Traceback (most recent call last):
-Aug 30 21:39:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[305067]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[305067]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[305067]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[305071]: Traceback (most recent call last):
-Aug 30 21:39:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[305071]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[305071]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[305071]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[305133]: Traceback (most recent call last):
-Aug 30 21:39:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[305133]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[305133]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[305133]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[305174]: Traceback (most recent call last):
-Aug 30 21:39:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[305174]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[305174]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[305174]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[305181]: Traceback (most recent call last):
-Aug 30 21:39:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[305181]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[305181]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[305181]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[305182]: Traceback (most recent call last):
-Aug 30 21:39:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[305182]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[305182]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[305182]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[305187]: Traceback (most recent call last):
-Aug 30 21:39:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[305187]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[305187]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[305187]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 21:39:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[305189]: Traceback (most recent call last):
-Aug 30 21:39:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[305189]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 21:39:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[305189]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 21:39:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[305189]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[305190]: Traceback (most recent call last):
+Aug 30 21:40:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[305190]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[305190]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[305190]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[305223]: Traceback (most recent call last):
+Aug 30 21:40:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[305223]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[305223]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[305223]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[305233]: Traceback (most recent call last):
+Aug 30 21:40:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[305233]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[305233]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[305233]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[305235]: Traceback (most recent call last):
+Aug 30 21:40:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[305235]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[305235]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[305235]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[305237]: Traceback (most recent call last):
+Aug 30 21:40:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[305237]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[305237]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[305237]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[305242]: Traceback (most recent call last):
+Aug 30 21:40:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[305242]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[305242]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[305242]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[305244]: Traceback (most recent call last):
+Aug 30 21:40:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[305244]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[305244]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[305244]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[305247]: Traceback (most recent call last):
+Aug 30 21:40:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[305247]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[305247]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[305247]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[305249]: Traceback (most recent call last):
+Aug 30 21:40:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[305249]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[305249]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[305249]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[305251]: Traceback (most recent call last):
+Aug 30 21:40:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[305251]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[305251]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[305251]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[305254]: Traceback (most recent call last):
+Aug 30 21:40:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[305254]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[305254]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[305254]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[305258]: Traceback (most recent call last):
+Aug 30 21:40:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[305258]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[305258]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[305258]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[305263]: Traceback (most recent call last):
+Aug 30 21:40:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[305263]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:40:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[305263]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:40:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[305263]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:40:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[305354]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
+Aug 30 21:40:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[305354]: WARNING:aiogram:Updates were skipped successfully.
+Aug 30 21:40:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[305354]: INFO:aiogram.dispatcher.dispatcher:Start polling.
