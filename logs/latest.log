@@ -1,1 +1,14 @@
--- No entries --
+Aug 30 22:15:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[307594]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
+Aug 30 22:15:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[307594]: WARNING:aiogram:Updates were skipped successfully.
+Aug 30 22:15:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[307594]: INFO:aiogram.dispatcher.dispatcher:Start polling.
+Aug 30 22:15:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[307594]: INFO:root:[LLM Fallback] 'привет'
+Aug 30 22:18:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[307850]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
+Aug 30 22:18:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[307850]: WARNING:aiogram:Updates were skipped successfully.
+Aug 30 22:18:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[307850]: INFO:aiogram.dispatcher.dispatcher:Start polling.
+Aug 30 22:18:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[307850]: INFO:root:[L0 EXACT] 'привет' → Здравствуйте! Я Fight Tech гид.
+Aug 30 22:18:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[307850]: Отвечу на ваши во...
+Aug 30 22:19:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[307850]: INFO:root:[LLM Fallback] 'приветик'
+Aug 30 22:19:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[307850]: INFO:root:[LLM Fallback] 'приветище'
+Aug 30 22:19:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[307850]: INFO:root:[LLM Fallback] 'привет!'
+Aug 30 22:19:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[307850]: INFO:root:[L0 EXACT] 'Привет' → Здравствуйте! Я Fight Tech гид.
+Aug 30 22:19:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[307850]: Отвечу на ваши во...
