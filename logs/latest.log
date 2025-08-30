@@ -1,2 +1,4 @@
-Aug 30 18:26:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[291896]: === UAFT tg_runner started ===
-Aug 30 18:29:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[292086]: === UAFT tg_runner started ===
+Aug 30 18:33:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[292086]: Traceback (most recent call last):
+Aug 30 18:33:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[292086]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
+Aug 30 18:33:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[292086]:     res = AI.route(event)  # ожидаем dict
+Aug 30 18:33:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[292086]: AttributeError: module 'ai_supervisor' has no attribute 'route'
