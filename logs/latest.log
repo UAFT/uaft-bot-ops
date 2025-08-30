@@ -1,1 +1,84 @@
--- No entries --
+Aug 30 20:47:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]: Traceback (most recent call last):
+Aug 30 20:47:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 60, in main
+Aug 30 20:47:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]:     res = AI.route(event)  # ожидаем dict
+Aug 30 20:47:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[299504]: AttributeError: module 'ai_supervisor' has no attribute 'route'
+Aug 30 20:49:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[300673]: Traceback (most recent call last):
+Aug 30 20:49:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[300673]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[300673]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[300673]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[300675]: Traceback (most recent call last):
+Aug 30 20:49:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[300675]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[300675]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[300675]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[300678]: Traceback (most recent call last):
+Aug 30 20:49:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[300678]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[300678]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[300678]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[300680]: Traceback (most recent call last):
+Aug 30 20:49:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[300680]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[300680]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[300680]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[300682]: Traceback (most recent call last):
+Aug 30 20:49:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[300682]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[300682]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[300682]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[300686]: Traceback (most recent call last):
+Aug 30 20:49:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[300686]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[300686]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[300686]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[300690]: Traceback (most recent call last):
+Aug 30 20:49:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[300690]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[300690]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[300690]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[300694]: Traceback (most recent call last):
+Aug 30 20:49:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[300694]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[300694]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[300694]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[300696]: Traceback (most recent call last):
+Aug 30 20:49:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[300696]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[300696]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[300696]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[300700]: Traceback (most recent call last):
+Aug 30 20:49:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[300700]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[300700]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[300700]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[300701]: Traceback (most recent call last):
+Aug 30 20:49:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[300701]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[300701]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[300701]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[300703]: Traceback (most recent call last):
+Aug 30 20:49:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[300703]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[300703]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[300703]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[300706]: Traceback (most recent call last):
+Aug 30 20:49:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[300706]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[300706]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[300706]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[300708]: Traceback (most recent call last):
+Aug 30 20:49:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[300708]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[300708]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[300708]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[300712]: Traceback (most recent call last):
+Aug 30 20:49:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[300712]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[300712]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[300712]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[300714]: Traceback (most recent call last):
+Aug 30 20:49:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[300714]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[300714]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[300714]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[300717]: Traceback (most recent call last):
+Aug 30 20:49:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[300717]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[300717]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[300717]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[300719]: Traceback (most recent call last):
+Aug 30 20:49:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[300719]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[300719]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[300719]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[300722]: Traceback (most recent call last):
+Aug 30 20:49:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[300722]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[300722]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[300722]: ModuleNotFoundError: No module named 'aiogram'
+Aug 30 20:49:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[300726]: Traceback (most recent call last):
+Aug 30 20:49:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[300726]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 2, in <module>
+Aug 30 20:49:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[300726]:     from aiogram import Bot, Dispatcher, types
+Aug 30 20:49:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[300726]: ModuleNotFoundError: No module named 'aiogram'
