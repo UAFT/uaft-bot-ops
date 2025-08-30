@@ -1,1 +1,188 @@
--- No entries --
+Aug 30 21:52:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[306033]: Traceback (most recent call last):
+Aug 30 21:52:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[306033]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:52:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[306033]:     from ai_supervisor import ask_with_routing
+Aug 30 21:52:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[306033]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[306040]: Traceback (most recent call last):
+Aug 30 21:53:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[306040]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[306040]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[306040]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[306042]: Traceback (most recent call last):
+Aug 30 21:53:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[306042]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[306042]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[306042]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[306043]: Traceback (most recent call last):
+Aug 30 21:53:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[306043]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[306043]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[306043]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[306049]: Traceback (most recent call last):
+Aug 30 21:53:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[306049]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[306049]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[306049]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[306052]: Traceback (most recent call last):
+Aug 30 21:53:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[306052]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[306052]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[306052]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[306053]: Traceback (most recent call last):
+Aug 30 21:53:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[306053]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[306053]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[306053]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[306059]: Traceback (most recent call last):
+Aug 30 21:53:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[306059]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[306059]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[306059]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[306062]: Traceback (most recent call last):
+Aug 30 21:53:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[306062]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[306062]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[306062]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[306065]: Traceback (most recent call last):
+Aug 30 21:53:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[306065]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[306065]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[306065]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[306068]: Traceback (most recent call last):
+Aug 30 21:53:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[306068]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[306068]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[306068]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[306070]: Traceback (most recent call last):
+Aug 30 21:53:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[306070]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[306070]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[306070]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[306072]: Traceback (most recent call last):
+Aug 30 21:53:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[306072]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[306072]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[306072]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[306075]: Traceback (most recent call last):
+Aug 30 21:53:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[306075]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[306075]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[306075]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[306077]: Traceback (most recent call last):
+Aug 30 21:53:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[306077]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[306077]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[306077]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[306079]: Traceback (most recent call last):
+Aug 30 21:53:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[306079]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[306079]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[306079]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[306083]: Traceback (most recent call last):
+Aug 30 21:53:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[306083]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[306083]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[306083]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[306085]: Traceback (most recent call last):
+Aug 30 21:53:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[306085]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[306085]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[306085]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[306088]: Traceback (most recent call last):
+Aug 30 21:53:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[306088]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[306088]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[306088]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[306091]: Traceback (most recent call last):
+Aug 30 21:53:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[306091]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[306091]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[306091]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[306095]: Traceback (most recent call last):
+Aug 30 21:53:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[306095]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[306095]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[306095]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[306097]: Traceback (most recent call last):
+Aug 30 21:53:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[306097]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[306097]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[306097]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[306099]: Traceback (most recent call last):
+Aug 30 21:53:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[306099]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[306099]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[306099]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:53:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[306102]: Traceback (most recent call last):
+Aug 30 21:53:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[306102]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:53:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[306102]:     from ai_supervisor import ask_with_routing
+Aug 30 21:53:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[306102]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[306105]: Traceback (most recent call last):
+Aug 30 21:54:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[306105]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[306105]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[306105]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[306107]: Traceback (most recent call last):
+Aug 30 21:54:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[306107]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[306107]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[306107]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[306111]: Traceback (most recent call last):
+Aug 30 21:54:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[306111]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[306111]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[306111]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[306113]: Traceback (most recent call last):
+Aug 30 21:54:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[306113]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[306113]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[306113]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[306116]: Traceback (most recent call last):
+Aug 30 21:54:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[306116]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[306116]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[306116]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[306118]: Traceback (most recent call last):
+Aug 30 21:54:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[306118]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[306118]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[306118]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[306120]: Traceback (most recent call last):
+Aug 30 21:54:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[306120]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[306120]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[306120]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[306122]: Traceback (most recent call last):
+Aug 30 21:54:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[306122]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[306122]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[306122]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[306125]: Traceback (most recent call last):
+Aug 30 21:54:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[306125]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[306125]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[306125]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[306127]: Traceback (most recent call last):
+Aug 30 21:54:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[306127]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[306127]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[306127]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[306130]: Traceback (most recent call last):
+Aug 30 21:54:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[306130]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[306130]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[306130]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[306136]: Traceback (most recent call last):
+Aug 30 21:54:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[306136]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[306136]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[306136]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[306203]: Traceback (most recent call last):
+Aug 30 21:54:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[306203]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[306203]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[306203]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[306207]: Traceback (most recent call last):
+Aug 30 21:54:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[306207]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[306207]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[306207]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[306208]: Traceback (most recent call last):
+Aug 30 21:54:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[306208]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[306208]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[306208]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[306210]: Traceback (most recent call last):
+Aug 30 21:54:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[306210]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[306210]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[306210]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[306213]: Traceback (most recent call last):
+Aug 30 21:54:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[306213]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[306213]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[306213]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[306216]: Traceback (most recent call last):
+Aug 30 21:54:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[306216]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[306216]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[306216]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[306218]: Traceback (most recent call last):
+Aug 30 21:54:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[306218]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[306218]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[306218]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[306222]: Traceback (most recent call last):
+Aug 30 21:54:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[306222]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[306222]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[306222]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[306224]: Traceback (most recent call last):
+Aug 30 21:54:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[306224]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[306224]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[306224]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[306227]: Traceback (most recent call last):
+Aug 30 21:54:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[306227]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[306227]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[306227]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 21:54:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[306229]: Traceback (most recent call last):
+Aug 30 21:54:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[306229]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 8, in <module>
+Aug 30 21:54:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[306229]:     from ai_supervisor import ask_with_routing
+Aug 30 21:54:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[306229]: ImportError: cannot import name 'ask_with_routing' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
