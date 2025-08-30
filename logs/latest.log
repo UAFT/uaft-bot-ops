@@ -1,752 +1,456 @@
-Aug 30 20:55:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301253]: Traceback (most recent call last):
-Aug 30 20:55:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301253]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301253]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301253]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301253]:     api.check_token(token)
-Aug 30 20:55:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301253]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301253]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301253]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301263]: Traceback (most recent call last):
-Aug 30 20:55:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301263]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301263]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301263]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301263]:     api.check_token(token)
-Aug 30 20:55:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301263]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301263]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301263]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301266]: Traceback (most recent call last):
-Aug 30 20:55:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301266]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301266]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301266]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301266]:     api.check_token(token)
-Aug 30 20:55:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301266]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301266]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301266]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301271]: Traceback (most recent call last):
-Aug 30 20:55:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301271]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301271]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301271]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301271]:     api.check_token(token)
-Aug 30 20:55:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301271]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301271]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301271]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301279]: Traceback (most recent call last):
-Aug 30 20:55:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301279]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301279]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301279]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301279]:     api.check_token(token)
-Aug 30 20:55:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301279]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301279]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301279]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301280]: Traceback (most recent call last):
-Aug 30 20:55:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301280]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301280]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301280]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301280]:     api.check_token(token)
-Aug 30 20:55:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301280]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301280]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301280]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301282]: Traceback (most recent call last):
-Aug 30 20:55:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301282]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301282]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301282]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301282]:     api.check_token(token)
-Aug 30 20:55:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301282]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301282]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301282]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301286]: Traceback (most recent call last):
-Aug 30 20:55:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301286]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301286]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301286]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301286]:     api.check_token(token)
-Aug 30 20:55:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301286]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301286]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301286]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301288]: Traceback (most recent call last):
-Aug 30 20:55:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301288]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301288]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301288]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301288]:     api.check_token(token)
-Aug 30 20:55:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301288]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301288]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301288]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301291]: Traceback (most recent call last):
-Aug 30 20:55:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301291]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301291]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301291]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301291]:     api.check_token(token)
-Aug 30 20:55:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301291]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301291]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301291]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301296]: Traceback (most recent call last):
-Aug 30 20:55:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301296]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301296]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301296]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301296]:     api.check_token(token)
-Aug 30 20:55:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301296]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301296]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301296]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301300]: Traceback (most recent call last):
-Aug 30 20:55:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301300]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301300]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301300]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301300]:     api.check_token(token)
-Aug 30 20:55:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301300]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301300]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301300]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301302]: Traceback (most recent call last):
-Aug 30 20:55:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301302]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301302]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301302]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301302]:     api.check_token(token)
-Aug 30 20:55:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301302]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301302]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301302]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301306]: Traceback (most recent call last):
-Aug 30 20:55:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301306]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301306]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301306]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301306]:     api.check_token(token)
-Aug 30 20:55:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301306]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301306]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301306]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301308]: Traceback (most recent call last):
-Aug 30 20:55:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301308]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301308]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301308]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301308]:     api.check_token(token)
-Aug 30 20:55:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301308]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301308]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301308]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301311]: Traceback (most recent call last):
-Aug 30 20:55:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301311]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301311]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301311]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301311]:     api.check_token(token)
-Aug 30 20:55:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301311]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301311]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301311]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301315]: Traceback (most recent call last):
-Aug 30 20:55:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301315]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301315]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301315]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301315]:     api.check_token(token)
-Aug 30 20:55:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301315]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301315]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301315]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301317]: Traceback (most recent call last):
-Aug 30 20:55:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301317]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301317]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301317]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301317]:     api.check_token(token)
-Aug 30 20:55:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301317]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301317]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301317]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301318]: Traceback (most recent call last):
-Aug 30 20:55:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301318]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301318]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301318]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301318]:     api.check_token(token)
-Aug 30 20:55:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301318]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301318]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301318]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301324]: Traceback (most recent call last):
-Aug 30 20:55:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301324]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301324]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301324]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301324]:     api.check_token(token)
-Aug 30 20:55:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301324]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301324]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301324]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301327]: Traceback (most recent call last):
-Aug 30 20:55:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301327]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301327]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301327]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301327]:     api.check_token(token)
-Aug 30 20:55:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301327]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301327]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301327]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[301331]: Traceback (most recent call last):
-Aug 30 20:55:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[301331]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[301331]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[301331]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[301331]:     api.check_token(token)
-Aug 30 20:55:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[301331]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[301331]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[301331]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:55:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301337]: Traceback (most recent call last):
-Aug 30 20:55:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301337]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:55:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301337]:     bot = Bot(token=TOKEN)
-Aug 30 20:55:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301337]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:55:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301337]:     api.check_token(token)
-Aug 30 20:55:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301337]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:55:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301337]:     raise exceptions.ValidationError(message)
-Aug 30 20:55:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301337]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301340]: Traceback (most recent call last):
-Aug 30 20:56:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301340]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301340]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301340]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301340]:     api.check_token(token)
-Aug 30 20:56:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301340]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301340]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[301340]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301341]: Traceback (most recent call last):
-Aug 30 20:56:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301341]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301341]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301341]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301341]:     api.check_token(token)
-Aug 30 20:56:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301341]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301341]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301341]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[301343]: Traceback (most recent call last):
-Aug 30 20:56:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[301343]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[301343]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[301343]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[301343]:     api.check_token(token)
-Aug 30 20:56:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[301343]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[301343]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[301343]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301347]: Traceback (most recent call last):
-Aug 30 20:56:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301347]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301347]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301347]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301347]:     api.check_token(token)
-Aug 30 20:56:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301347]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301347]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[301347]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301351]: Traceback (most recent call last):
-Aug 30 20:56:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301351]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301351]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301351]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301351]:     api.check_token(token)
-Aug 30 20:56:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301351]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301351]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301351]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301353]: Traceback (most recent call last):
-Aug 30 20:56:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301353]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301353]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301353]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301353]:     api.check_token(token)
-Aug 30 20:56:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301353]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301353]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[301353]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301358]: Traceback (most recent call last):
-Aug 30 20:56:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301358]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301358]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301358]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301358]:     api.check_token(token)
-Aug 30 20:56:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301358]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301358]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301358]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301360]: Traceback (most recent call last):
-Aug 30 20:56:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301360]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301360]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301360]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301360]:     api.check_token(token)
-Aug 30 20:56:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301360]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301360]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301360]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301361]: Traceback (most recent call last):
-Aug 30 20:56:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301361]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301361]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301361]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301361]:     api.check_token(token)
-Aug 30 20:56:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301361]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301361]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301361]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301365]: Traceback (most recent call last):
-Aug 30 20:56:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301365]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301365]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301365]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301365]:     api.check_token(token)
-Aug 30 20:56:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301365]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301365]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301365]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301369]: Traceback (most recent call last):
-Aug 30 20:56:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301369]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301369]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301369]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301369]:     api.check_token(token)
-Aug 30 20:56:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301369]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301369]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301369]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301370]: Traceback (most recent call last):
-Aug 30 20:56:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301370]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301370]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301370]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301370]:     api.check_token(token)
-Aug 30 20:56:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301370]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301370]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301370]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301374]: Traceback (most recent call last):
-Aug 30 20:56:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301374]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301374]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301374]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301374]:     api.check_token(token)
-Aug 30 20:56:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301374]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301374]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301374]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301376]: Traceback (most recent call last):
-Aug 30 20:56:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301376]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301376]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301376]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301376]:     api.check_token(token)
-Aug 30 20:56:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301376]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301376]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301376]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301378]: Traceback (most recent call last):
-Aug 30 20:56:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301378]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301378]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301378]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301378]:     api.check_token(token)
-Aug 30 20:56:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301378]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301378]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301378]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301383]: Traceback (most recent call last):
-Aug 30 20:56:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301383]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301383]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301383]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301383]:     api.check_token(token)
-Aug 30 20:56:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301383]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301383]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301383]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301387]: Traceback (most recent call last):
-Aug 30 20:56:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301387]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301387]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301387]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301387]:     api.check_token(token)
-Aug 30 20:56:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301387]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301387]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301387]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301388]: Traceback (most recent call last):
-Aug 30 20:56:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301388]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301388]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301388]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301388]:     api.check_token(token)
-Aug 30 20:56:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301388]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301388]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301388]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301393]: Traceback (most recent call last):
-Aug 30 20:56:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301393]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301393]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301393]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301393]:     api.check_token(token)
-Aug 30 20:56:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301393]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301393]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301393]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301396]: Traceback (most recent call last):
-Aug 30 20:56:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301396]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301396]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301396]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301396]:     api.check_token(token)
-Aug 30 20:56:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301396]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301396]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301396]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301397]: Traceback (most recent call last):
-Aug 30 20:56:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301397]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301397]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301397]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301397]:     api.check_token(token)
-Aug 30 20:56:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301397]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301397]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301397]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301401]: Traceback (most recent call last):
-Aug 30 20:56:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301401]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301401]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301401]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301401]:     api.check_token(token)
-Aug 30 20:56:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301401]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301401]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301401]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:56:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301407]: Traceback (most recent call last):
-Aug 30 20:56:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301407]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:56:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301407]:     bot = Bot(token=TOKEN)
-Aug 30 20:56:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301407]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:56:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301407]:     api.check_token(token)
-Aug 30 20:56:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301407]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:56:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301407]:     raise exceptions.ValidationError(message)
-Aug 30 20:56:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301407]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301409]: Traceback (most recent call last):
-Aug 30 20:57:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301409]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301409]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301409]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301409]:     api.check_token(token)
-Aug 30 20:57:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301409]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301409]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301409]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301412]: Traceback (most recent call last):
-Aug 30 20:57:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301412]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301412]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301412]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301412]:     api.check_token(token)
-Aug 30 20:57:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301412]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301412]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301412]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301414]: Traceback (most recent call last):
-Aug 30 20:57:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301414]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301414]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301414]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301414]:     api.check_token(token)
-Aug 30 20:57:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301414]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301414]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301414]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[301417]: Traceback (most recent call last):
-Aug 30 20:57:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[301417]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[301417]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[301417]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[301417]:     api.check_token(token)
-Aug 30 20:57:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[301417]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[301417]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[301417]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301419]: Traceback (most recent call last):
-Aug 30 20:57:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301419]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301419]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301419]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301419]:     api.check_token(token)
-Aug 30 20:57:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301419]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301419]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301419]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301423]: Traceback (most recent call last):
-Aug 30 20:57:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301423]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301423]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301423]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301423]:     api.check_token(token)
-Aug 30 20:57:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301423]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301423]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301423]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301426]: Traceback (most recent call last):
-Aug 30 20:57:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301426]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301426]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301426]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301426]:     api.check_token(token)
-Aug 30 20:57:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301426]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301426]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301426]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301428]: Traceback (most recent call last):
-Aug 30 20:57:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301428]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301428]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301428]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301428]:     api.check_token(token)
-Aug 30 20:57:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301428]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301428]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301428]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301432]: Traceback (most recent call last):
-Aug 30 20:57:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301432]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301432]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301432]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301432]:     api.check_token(token)
-Aug 30 20:57:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301432]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301432]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301432]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301435]: Traceback (most recent call last):
-Aug 30 20:57:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301435]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301435]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301435]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301435]:     api.check_token(token)
-Aug 30 20:57:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301435]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301435]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301435]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301438]: Traceback (most recent call last):
-Aug 30 20:57:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301438]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301438]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301438]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301438]:     api.check_token(token)
-Aug 30 20:57:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301438]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301438]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301438]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301441]: Traceback (most recent call last):
-Aug 30 20:57:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301441]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301441]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301441]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301441]:     api.check_token(token)
-Aug 30 20:57:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301441]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301441]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301441]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301446]: Traceback (most recent call last):
-Aug 30 20:57:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301446]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301446]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301446]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301446]:     api.check_token(token)
-Aug 30 20:57:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301446]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301446]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301446]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301448]: Traceback (most recent call last):
-Aug 30 20:57:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301448]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301448]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301448]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301448]:     api.check_token(token)
-Aug 30 20:57:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301448]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301448]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301448]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301450]: Traceback (most recent call last):
-Aug 30 20:57:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301450]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301450]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301450]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301450]:     api.check_token(token)
-Aug 30 20:57:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301450]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301450]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301450]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301453]: Traceback (most recent call last):
-Aug 30 20:57:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301453]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301453]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301453]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301453]:     api.check_token(token)
-Aug 30 20:57:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301453]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301453]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301453]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[301455]: Traceback (most recent call last):
-Aug 30 20:57:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[301455]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[301455]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[301455]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[301455]:     api.check_token(token)
-Aug 30 20:57:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[301455]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[301455]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[301455]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301460]: Traceback (most recent call last):
-Aug 30 20:57:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301460]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301460]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301460]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301460]:     api.check_token(token)
-Aug 30 20:57:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301460]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301460]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301460]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[301465]: Traceback (most recent call last):
-Aug 30 20:57:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[301465]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[301465]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[301465]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[301465]:     api.check_token(token)
-Aug 30 20:57:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[301465]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[301465]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[301465]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301468]: Traceback (most recent call last):
-Aug 30 20:57:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301468]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301468]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301468]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301468]:     api.check_token(token)
-Aug 30 20:57:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301468]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301468]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301468]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301473]: Traceback (most recent call last):
-Aug 30 20:57:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301473]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301473]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301473]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301473]:     api.check_token(token)
-Aug 30 20:57:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301473]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301473]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301473]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301475]: Traceback (most recent call last):
-Aug 30 20:57:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301475]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301475]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301475]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301475]:     api.check_token(token)
-Aug 30 20:57:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301475]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301475]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301475]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:57:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301478]: Traceback (most recent call last):
-Aug 30 20:57:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301478]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:57:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301478]:     bot = Bot(token=TOKEN)
-Aug 30 20:57:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301478]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:57:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301478]:     api.check_token(token)
-Aug 30 20:57:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301478]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:57:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301478]:     raise exceptions.ValidationError(message)
-Aug 30 20:57:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301478]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:58:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301482]: Traceback (most recent call last):
-Aug 30 20:58:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301482]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:58:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301482]:     bot = Bot(token=TOKEN)
-Aug 30 20:58:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301482]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:58:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301482]:     api.check_token(token)
-Aug 30 20:58:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301482]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:58:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301482]:     raise exceptions.ValidationError(message)
-Aug 30 20:58:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301482]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:58:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301501]: Traceback (most recent call last):
-Aug 30 20:58:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301501]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 12, in <module>
-Aug 30 20:58:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301501]:     bot = Bot(token=TOKEN)
-Aug 30 20:58:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301501]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 77, in __init__
-Aug 30 20:58:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301501]:     api.check_token(token)
-Aug 30 20:58:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301501]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 67, in check_token
-Aug 30 20:58:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301501]:     raise exceptions.ValidationError(message)
-Aug 30 20:58:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301501]: aiogram.utils.exceptions.ValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
-Aug 30 20:58:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301544]: Traceback (most recent call last):
-Aug 30 20:58:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301544]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301544]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301544]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[301548]: Traceback (most recent call last):
-Aug 30 20:58:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[301548]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[301548]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[301548]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[301549]: Traceback (most recent call last):
-Aug 30 20:58:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[301549]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[301549]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[301549]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[301552]: Traceback (most recent call last):
-Aug 30 20:58:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[301552]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[301552]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[301552]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301556]: Traceback (most recent call last):
-Aug 30 20:58:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301556]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301556]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301556]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[301560]: Traceback (most recent call last):
-Aug 30 20:58:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[301560]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[301560]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[301560]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[301562]: Traceback (most recent call last):
-Aug 30 20:58:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[301562]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[301562]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[301562]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301566]: Traceback (most recent call last):
-Aug 30 20:58:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301566]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301566]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301566]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[301567]: Traceback (most recent call last):
-Aug 30 20:58:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[301567]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[301567]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[301567]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301569]: Traceback (most recent call last):
-Aug 30 20:58:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301569]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301569]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301569]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[301573]: Traceback (most recent call last):
-Aug 30 20:58:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[301573]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[301573]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[301573]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[301577]: Traceback (most recent call last):
-Aug 30 20:58:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[301577]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[301577]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[301577]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301579]: Traceback (most recent call last):
-Aug 30 20:58:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301579]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301579]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301579]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[301583]: Traceback (most recent call last):
-Aug 30 20:58:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[301583]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[301583]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[301583]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301586]: Traceback (most recent call last):
-Aug 30 20:58:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301586]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301586]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301586]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[301587]: Traceback (most recent call last):
-Aug 30 20:58:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[301587]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[301587]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[301587]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301591]: Traceback (most recent call last):
-Aug 30 20:58:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301591]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301591]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301591]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[301597]: Traceback (most recent call last):
-Aug 30 20:58:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[301597]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[301597]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[301597]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301598]: Traceback (most recent call last):
-Aug 30 20:58:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301598]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301598]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[301598]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301600]: Traceback (most recent call last):
-Aug 30 20:58:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301600]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301600]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301600]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301603]: Traceback (most recent call last):
-Aug 30 20:58:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301603]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301603]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301603]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:58:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301606]: Traceback (most recent call last):
-Aug 30 20:58:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301606]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:58:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301606]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:58:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301606]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301608]: Traceback (most recent call last):
-Aug 30 20:59:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301608]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301608]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301608]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301615]: Traceback (most recent call last):
-Aug 30 20:59:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301615]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301615]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:04 ubuntu-s-1vcpu-1gb-sgp1-01 python[301615]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301616]: Traceback (most recent call last):
-Aug 30 20:59:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301616]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301616]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301616]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301620]: Traceback (most recent call last):
-Aug 30 20:59:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301620]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301620]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301620]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301623]: Traceback (most recent call last):
-Aug 30 20:59:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301623]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301623]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301623]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301625]: Traceback (most recent call last):
-Aug 30 20:59:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301625]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301625]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301625]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301627]: Traceback (most recent call last):
-Aug 30 20:59:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301627]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301627]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301627]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301631]: Traceback (most recent call last):
-Aug 30 20:59:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301631]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301631]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:18 ubuntu-s-1vcpu-1gb-sgp1-01 python[301631]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301636]: Traceback (most recent call last):
-Aug 30 20:59:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301636]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301636]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301636]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301638]: Traceback (most recent call last):
-Aug 30 20:59:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301638]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301638]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:23 ubuntu-s-1vcpu-1gb-sgp1-01 python[301638]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301642]: Traceback (most recent call last):
-Aug 30 20:59:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301642]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301642]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301642]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301645]: Traceback (most recent call last):
-Aug 30 20:59:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301645]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301645]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:28 ubuntu-s-1vcpu-1gb-sgp1-01 python[301645]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301647]: Traceback (most recent call last):
-Aug 30 20:59:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301647]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301647]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301647]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301653]: Traceback (most recent call last):
-Aug 30 20:59:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301653]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301653]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301653]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301654]: Traceback (most recent call last):
-Aug 30 20:59:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301654]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301654]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[301654]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301656]: Traceback (most recent call last):
-Aug 30 20:59:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301656]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301656]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301656]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301659]: Traceback (most recent call last):
-Aug 30 20:59:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301659]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301659]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[301659]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301661]: Traceback (most recent call last):
-Aug 30 20:59:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301661]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301661]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:44 ubuntu-s-1vcpu-1gb-sgp1-01 python[301661]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301665]: Traceback (most recent call last):
-Aug 30 20:59:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301665]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301665]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[301665]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301670]: Traceback (most recent call last):
-Aug 30 20:59:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301670]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301670]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[301670]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[301673]: Traceback (most recent call last):
-Aug 30 20:59:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[301673]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[301673]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:52 ubuntu-s-1vcpu-1gb-sgp1-01 python[301673]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301676]: Traceback (most recent call last):
-Aug 30 20:59:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301676]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301676]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[301676]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[301680]: Traceback (most recent call last):
-Aug 30 20:59:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[301680]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[301680]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[301680]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
-Aug 30 20:59:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301681]: Traceback (most recent call last):
-Aug 30 20:59:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301681]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
-Aug 30 20:59:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301681]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
-Aug 30 20:59:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[301681]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[301710]: Traceback (most recent call last):
+Aug 30 21:00:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[301710]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[301710]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[301710]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301724]: Traceback (most recent call last):
+Aug 30 21:00:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301724]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301724]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[301724]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301728]: Traceback (most recent call last):
+Aug 30 21:00:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301728]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301728]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301728]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301731]: Traceback (most recent call last):
+Aug 30 21:00:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301731]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301731]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301731]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301734]: Traceback (most recent call last):
+Aug 30 21:00:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301734]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301734]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301734]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301738]: Traceback (most recent call last):
+Aug 30 21:00:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301738]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301738]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301738]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301742]: Traceback (most recent call last):
+Aug 30 21:00:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301742]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301742]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301742]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301745]: Traceback (most recent call last):
+Aug 30 21:00:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301745]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301745]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301745]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301749]: Traceback (most recent call last):
+Aug 30 21:00:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301749]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301749]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301749]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301751]: Traceback (most recent call last):
+Aug 30 21:00:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301751]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301751]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301751]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301753]: Traceback (most recent call last):
+Aug 30 21:00:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301753]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301753]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301753]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301755]: Traceback (most recent call last):
+Aug 30 21:00:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301755]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301755]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301755]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301760]: Traceback (most recent call last):
+Aug 30 21:00:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301760]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301760]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301760]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301763]: Traceback (most recent call last):
+Aug 30 21:00:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301763]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301763]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301763]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301765]: Traceback (most recent call last):
+Aug 30 21:00:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301765]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301765]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301765]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[301769]: Traceback (most recent call last):
+Aug 30 21:00:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[301769]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[301769]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[301769]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301771]: Traceback (most recent call last):
+Aug 30 21:00:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301771]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301771]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301771]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[301775]: Traceback (most recent call last):
+Aug 30 21:00:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[301775]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[301775]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[301775]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[301779]: Traceback (most recent call last):
+Aug 30 21:00:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[301779]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[301779]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[301779]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301782]: Traceback (most recent call last):
+Aug 30 21:00:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301782]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301782]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301782]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[301784]: Traceback (most recent call last):
+Aug 30 21:00:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[301784]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[301784]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[301784]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:00:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301787]: Traceback (most recent call last):
+Aug 30 21:00:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301787]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:00:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301787]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:00:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301787]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[301790]: Traceback (most recent call last):
+Aug 30 21:01:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[301790]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[301790]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[301790]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[301792]: Traceback (most recent call last):
+Aug 30 21:01:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[301792]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[301792]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[301792]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301798]: Traceback (most recent call last):
+Aug 30 21:01:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301798]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301798]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301798]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301800]: Traceback (most recent call last):
+Aug 30 21:01:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301800]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301800]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301800]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301802]: Traceback (most recent call last):
+Aug 30 21:01:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301802]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301802]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301802]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301805]: Traceback (most recent call last):
+Aug 30 21:01:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301805]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301805]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[301805]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301809]: Traceback (most recent call last):
+Aug 30 21:01:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301809]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301809]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301809]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301811]: Traceback (most recent call last):
+Aug 30 21:01:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301811]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301811]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301811]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301816]: Traceback (most recent call last):
+Aug 30 21:01:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301816]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301816]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[301816]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301820]: Traceback (most recent call last):
+Aug 30 21:01:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301820]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301820]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301820]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301823]: Traceback (most recent call last):
+Aug 30 21:01:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301823]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301823]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[301823]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[301828]: Traceback (most recent call last):
+Aug 30 21:01:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[301828]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[301828]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[301828]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301829]: Traceback (most recent call last):
+Aug 30 21:01:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301829]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301829]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[301829]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301833]: Traceback (most recent call last):
+Aug 30 21:01:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301833]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301833]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[301833]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301836]: Traceback (most recent call last):
+Aug 30 21:01:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301836]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301836]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301836]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301838]: Traceback (most recent call last):
+Aug 30 21:01:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301838]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301838]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[301838]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[301843]: Traceback (most recent call last):
+Aug 30 21:01:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[301843]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[301843]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[301843]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301845]: Traceback (most recent call last):
+Aug 30 21:01:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301845]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301845]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301845]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[301848]: Traceback (most recent call last):
+Aug 30 21:01:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[301848]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[301848]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[301848]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[301854]: Traceback (most recent call last):
+Aug 30 21:01:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[301854]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[301854]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[301854]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301916]: Traceback (most recent call last):
+Aug 30 21:01:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301916]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301916]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301916]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301920]: Traceback (most recent call last):
+Aug 30 21:01:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301920]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301920]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[301920]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:01:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301922]: Traceback (most recent call last):
+Aug 30 21:01:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301922]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:01:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301922]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:01:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301922]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301926]: Traceback (most recent call last):
+Aug 30 21:02:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301926]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301926]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301926]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[301930]: Traceback (most recent call last):
+Aug 30 21:02:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[301930]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[301930]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[301930]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301934]: Traceback (most recent call last):
+Aug 30 21:02:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301934]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301934]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[301934]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301936]: Traceback (most recent call last):
+Aug 30 21:02:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301936]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301936]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[301936]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301939]: Traceback (most recent call last):
+Aug 30 21:02:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301939]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301939]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[301939]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301941]: Traceback (most recent call last):
+Aug 30 21:02:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301941]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301941]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:13 ubuntu-s-1vcpu-1gb-sgp1-01 python[301941]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301943]: Traceback (most recent call last):
+Aug 30 21:02:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301943]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301943]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[301943]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301945]: Traceback (most recent call last):
+Aug 30 21:02:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301945]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301945]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[301945]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301952]: Traceback (most recent call last):
+Aug 30 21:02:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301952]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301952]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:21 ubuntu-s-1vcpu-1gb-sgp1-01 python[301952]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301954]: Traceback (most recent call last):
+Aug 30 21:02:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301954]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301954]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[301954]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301956]: Traceback (most recent call last):
+Aug 30 21:02:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301956]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301956]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[301956]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301960]: Traceback (most recent call last):
+Aug 30 21:02:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301960]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301960]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:29 ubuntu-s-1vcpu-1gb-sgp1-01 python[301960]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301965]: Traceback (most recent call last):
+Aug 30 21:02:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301965]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301965]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:31 ubuntu-s-1vcpu-1gb-sgp1-01 python[301965]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301966]: Traceback (most recent call last):
+Aug 30 21:02:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301966]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301966]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:34 ubuntu-s-1vcpu-1gb-sgp1-01 python[301966]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301972]: Traceback (most recent call last):
+Aug 30 21:02:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301972]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301972]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[301972]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301974]: Traceback (most recent call last):
+Aug 30 21:02:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301974]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301974]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:39 ubuntu-s-1vcpu-1gb-sgp1-01 python[301974]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[301975]: Traceback (most recent call last):
+Aug 30 21:02:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[301975]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[301975]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[301975]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301980]: Traceback (most recent call last):
+Aug 30 21:02:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301980]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301980]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[301980]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[301982]: Traceback (most recent call last):
+Aug 30 21:02:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[301982]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[301982]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:47 ubuntu-s-1vcpu-1gb-sgp1-01 python[301982]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[301985]: Traceback (most recent call last):
+Aug 30 21:02:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[301985]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[301985]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:50 ubuntu-s-1vcpu-1gb-sgp1-01 python[301985]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301992]: Traceback (most recent call last):
+Aug 30 21:02:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301992]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301992]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[301992]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[301995]: Traceback (most recent call last):
+Aug 30 21:02:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[301995]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[301995]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:55 ubuntu-s-1vcpu-1gb-sgp1-01 python[301995]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:02:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301996]: Traceback (most recent call last):
+Aug 30 21:02:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301996]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:02:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301996]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:02:58 ubuntu-s-1vcpu-1gb-sgp1-01 python[301996]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301999]: Traceback (most recent call last):
+Aug 30 21:03:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301999]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301999]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[301999]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[302002]: Traceback (most recent call last):
+Aug 30 21:03:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[302002]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[302002]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[302002]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[302005]: Traceback (most recent call last):
+Aug 30 21:03:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[302005]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[302005]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[302005]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[302009]: Traceback (most recent call last):
+Aug 30 21:03:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[302009]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[302009]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:09 ubuntu-s-1vcpu-1gb-sgp1-01 python[302009]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[302015]: Traceback (most recent call last):
+Aug 30 21:03:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[302015]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[302015]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[302015]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[302017]: Traceback (most recent call last):
+Aug 30 21:03:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[302017]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[302017]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:14 ubuntu-s-1vcpu-1gb-sgp1-01 python[302017]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[302021]: Traceback (most recent call last):
+Aug 30 21:03:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[302021]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[302021]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[302021]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[302024]: Traceback (most recent call last):
+Aug 30 21:03:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[302024]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[302024]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[302024]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[302029]: Traceback (most recent call last):
+Aug 30 21:03:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[302029]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[302029]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[302029]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[302033]: Traceback (most recent call last):
+Aug 30 21:03:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[302033]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[302033]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[302033]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[302035]: Traceback (most recent call last):
+Aug 30 21:03:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[302035]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[302035]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[302035]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[302036]: Traceback (most recent call last):
+Aug 30 21:03:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[302036]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[302036]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[302036]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[302040]: Traceback (most recent call last):
+Aug 30 21:03:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[302040]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[302040]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:33 ubuntu-s-1vcpu-1gb-sgp1-01 python[302040]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[302042]: Traceback (most recent call last):
+Aug 30 21:03:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[302042]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[302042]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[302042]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[302047]: Traceback (most recent call last):
+Aug 30 21:03:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[302047]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[302047]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:38 ubuntu-s-1vcpu-1gb-sgp1-01 python[302047]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[302051]: Traceback (most recent call last):
+Aug 30 21:03:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[302051]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[302051]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[302051]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[302053]: Traceback (most recent call last):
+Aug 30 21:03:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[302053]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[302053]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:43 ubuntu-s-1vcpu-1gb-sgp1-01 python[302053]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[302055]: Traceback (most recent call last):
+Aug 30 21:03:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[302055]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[302055]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:46 ubuntu-s-1vcpu-1gb-sgp1-01 python[302055]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[302058]: Traceback (most recent call last):
+Aug 30 21:03:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[302058]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[302058]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:49 ubuntu-s-1vcpu-1gb-sgp1-01 python[302058]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[302060]: Traceback (most recent call last):
+Aug 30 21:03:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[302060]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[302060]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[302060]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[302064]: Traceback (most recent call last):
+Aug 30 21:03:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[302064]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[302064]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:54 ubuntu-s-1vcpu-1gb-sgp1-01 python[302064]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[302069]: Traceback (most recent call last):
+Aug 30 21:03:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[302069]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[302069]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[302069]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:03:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[302071]: Traceback (most recent call last):
+Aug 30 21:03:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[302071]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:03:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[302071]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:03:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[302071]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[302074]: Traceback (most recent call last):
+Aug 30 21:04:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[302074]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[302074]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[302074]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[302077]: Traceback (most recent call last):
+Aug 30 21:04:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[302077]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[302077]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:05 ubuntu-s-1vcpu-1gb-sgp1-01 python[302077]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[302080]: Traceback (most recent call last):
+Aug 30 21:04:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[302080]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[302080]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[302080]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[302084]: Traceback (most recent call last):
+Aug 30 21:04:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[302084]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[302084]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[302084]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[302085]: Traceback (most recent call last):
+Aug 30 21:04:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[302085]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[302085]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:12 ubuntu-s-1vcpu-1gb-sgp1-01 python[302085]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[302089]: Traceback (most recent call last):
+Aug 30 21:04:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[302089]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[302089]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[302089]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[302091]: Traceback (most recent call last):
+Aug 30 21:04:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[302091]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[302091]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:17 ubuntu-s-1vcpu-1gb-sgp1-01 python[302091]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[302093]: Traceback (most recent call last):
+Aug 30 21:04:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[302093]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[302093]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[302093]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[302096]: Traceback (most recent call last):
+Aug 30 21:04:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[302096]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[302096]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:22 ubuntu-s-1vcpu-1gb-sgp1-01 python[302096]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[302100]: Traceback (most recent call last):
+Aug 30 21:04:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[302100]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[302100]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:25 ubuntu-s-1vcpu-1gb-sgp1-01 python[302100]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[302102]: Traceback (most recent call last):
+Aug 30 21:04:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[302102]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[302102]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:27 ubuntu-s-1vcpu-1gb-sgp1-01 python[302102]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[302107]: Traceback (most recent call last):
+Aug 30 21:04:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[302107]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[302107]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[302107]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[302109]: Traceback (most recent call last):
+Aug 30 21:04:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[302109]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[302109]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:32 ubuntu-s-1vcpu-1gb-sgp1-01 python[302109]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[302110]: Traceback (most recent call last):
+Aug 30 21:04:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[302110]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[302110]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:35 ubuntu-s-1vcpu-1gb-sgp1-01 python[302110]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[302113]: Traceback (most recent call last):
+Aug 30 21:04:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[302113]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[302113]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[302113]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[302116]: Traceback (most recent call last):
+Aug 30 21:04:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[302116]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[302116]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:40 ubuntu-s-1vcpu-1gb-sgp1-01 python[302116]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[302117]: Traceback (most recent call last):
+Aug 30 21:04:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[302117]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[302117]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[302117]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[302119]: Traceback (most recent call last):
+Aug 30 21:04:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[302119]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[302119]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:45 ubuntu-s-1vcpu-1gb-sgp1-01 python[302119]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[302123]: Traceback (most recent call last):
+Aug 30 21:04:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[302123]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[302123]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:48 ubuntu-s-1vcpu-1gb-sgp1-01 python[302123]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[302125]: Traceback (most recent call last):
+Aug 30 21:04:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[302125]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[302125]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[302125]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[302128]: Traceback (most recent call last):
+Aug 30 21:04:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[302128]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[302128]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[302128]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[302132]: Traceback (most recent call last):
+Aug 30 21:04:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[302132]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[302132]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:56 ubuntu-s-1vcpu-1gb-sgp1-01 python[302132]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
+Aug 30 21:04:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[302133]: Traceback (most recent call last):
+Aug 30 21:04:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[302133]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 14, in <module>
+Aug 30 21:04:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[302133]:     raise RuntimeError("❌ Telegram bot token не найден в окружении (.env)")
+Aug 30 21:04:59 ubuntu-s-1vcpu-1gb-sgp1-01 python[302133]: RuntimeError: ❌ Telegram bot token не найден в окружении (.env)
