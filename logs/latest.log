@@ -1,4 +1,3 @@
-Aug 30 22:36:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: INFO:root:[L0 EXACT] 'привет' → Здравствуйте! Я Fight Tech гид.
-Aug 30 22:36:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: Отвечу на ваши во...
-Aug 30 22:37:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: INFO:root:[L0 EXACT] 'какой формат тренировок' → Формат разнообразный:
-Aug 30 22:37:01 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: силовые, круговые, ОФП, СФП...
+Aug 30 22:44:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[309768]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
+Aug 30 22:44:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[309768]: WARNING:aiogram:Updates were skipped successfully.
+Aug 30 22:44:08 ubuntu-s-1vcpu-1gb-sgp1-01 python[309768]: INFO:aiogram.dispatcher.dispatcher:Start polling.
