@@ -1,1 +1,2 @@
--- No entries --
+Aug 30 16:16:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[276334]: [AI] 2025-08-30 16:16:51,534 ERROR: LLM fallback failed: 400 Client Error: Bad Request for url: https://api.openai.com/v1/chat/completions
+Aug 30 16:17:00 ubuntu-s-1vcpu-1gb-sgp1-01 python[276334]: [AI] 2025-08-30 16:17:00,367 ERROR: LLM fallback failed: 400 Client Error: Bad Request for url: https://api.openai.com/v1/chat/completions
