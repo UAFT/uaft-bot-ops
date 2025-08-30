@@ -1,7 +1,13 @@
-Aug 30 22:22:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[308424]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
-Aug 30 22:22:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[308424]: WARNING:aiogram:Updates were skipped successfully.
-Aug 30 22:22:42 ubuntu-s-1vcpu-1gb-sgp1-01 python[308424]: INFO:aiogram.dispatcher.dispatcher:Start polling.
-Aug 30 22:23:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[308424]: INFO:root:[L0 EXACT] 'привет' → Здравствуйте! Я Fight Tech гид.
-Aug 30 22:23:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[308424]: Отвечу на ваши во...
-Aug 30 22:23:26 ubuntu-s-1vcpu-1gb-sgp1-01 python[308424]: INFO:root:[LLM Fallback] 'привет!'
-Aug 30 22:23:36 ubuntu-s-1vcpu-1gb-sgp1-01 python[308424]: INFO:root:[LLM Fallback] 'приветик'
+Aug 30 22:25:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
+Aug 30 22:25:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: WARNING:aiogram:Updates were skipped successfully.
+Aug 30 22:25:37 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: INFO:aiogram.dispatcher.dispatcher:Start polling.
+Aug 30 22:25:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: INFO:root:[L0 EXACT] 'привет' → Здравствуйте! Я Fight Tech гид.
+Aug 30 22:25:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: Отвечу на ваши во...
+Aug 30 22:25:57 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: ERROR:root:LLM error: cannot import name 'ask_gpt_with_passport' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 22:26:03 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: ERROR:root:LLM error: cannot import name 'ask_gpt_with_passport' from 'ai_supervisor' (/home/uaft/uaft_project_50lite/ai_supervisor.py)
+Aug 30 22:26:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: INFO:root:[L0 EXACT] 'расскажите про тренировки' → Групповые тренировки проходят в Мандрэме
+Aug 30 22:26:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: по понед...
+Aug 30 22:26:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: INFO:root:[L0 EXACT] 'расписание' → Пн/Ср/Пт — 09:00 и 16:30
+Aug 30 22:26:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: Приходите за 5–10 минут д...
+Aug 30 22:26:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: INFO:root:[L0 EXACT] 'локация' → Мандрем.
+Aug 30 22:26:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[308676]: 4-этажное здание, последний этаж, вход о...
