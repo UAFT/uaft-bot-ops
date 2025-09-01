@@ -1,1 +1,3 @@
--- No entries --
+Sep 01 14:50:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[415278]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
+Sep 01 14:50:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[415278]: WARNING:aiogram:Updates were skipped successfully.
+Sep 01 14:50:02 ubuntu-s-1vcpu-1gb-sgp1-01 python[415278]: INFO:aiogram.dispatcher.dispatcher:Start polling.
