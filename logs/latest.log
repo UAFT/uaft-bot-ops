@@ -1,1 +1,13 @@
--- No entries --
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]: ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]: Traceback (most recent call last):
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 381, in start_polling
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:     updates = await self.bot.get_updates(
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/bot.py", line 110, in get_updates
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:     result = await self.request(api.Methods.GET_UPDATES, payload)
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/base.py", line 236, in request
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:     return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 140, in make_request
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:     return check_result(method, response.content_type, response.status, await response.text())
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:   File "/home/uaft/uaft_project_50lite/.venv/lib/python3.10/site-packages/aiogram/bot/api.py", line 128, in check_result
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:     raise exceptions.TelegramAPIError(description)
+Sep 01 01:13:19 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]: aiogram.utils.exceptions.TelegramAPIError: Bad Gateway
