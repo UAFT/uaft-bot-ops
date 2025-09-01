@@ -1,15 +1,1 @@
-Sep 01 00:31:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]: ERROR:root:Ошибка при запросе к Dispatcher API
-Sep 01 00:31:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]: Traceback (most recent call last):
-Sep 01 00:31:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 29, in handle_message
-Sep 01 00:31:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:     answer = data.get("answer", "Извини, ответ пустой.")
-Sep 01 00:31:30 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]: AttributeError: 'str' object has no attribute 'get'
-Sep 01 00:32:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]: ERROR:root:Ошибка при запросе к Dispatcher API
-Sep 01 00:32:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]: Traceback (most recent call last):
-Sep 01 00:32:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 29, in handle_message
-Sep 01 00:32:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:     answer = data.get("answer", "Извини, ответ пустой.")
-Sep 01 00:32:15 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]: AttributeError: 'str' object has no attribute 'get'
-Sep 01 00:32:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]: ERROR:root:Ошибка при запросе к Dispatcher API
-Sep 01 00:32:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]: Traceback (most recent call last):
-Sep 01 00:32:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:   File "/home/uaft/uaft_project_50lite/tg_runner.py", line 29, in handle_message
-Sep 01 00:32:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]:     answer = data.get("answer", "Извини, ответ пустой.")
-Sep 01 00:32:20 ubuntu-s-1vcpu-1gb-sgp1-01 python[370432]: AttributeError: 'str' object has no attribute 'get'
+-- No entries --
