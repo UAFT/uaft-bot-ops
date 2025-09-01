@@ -1,3 +1,6 @@
-Sep 01 13:23:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[409578]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
-Sep 01 13:23:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[409578]: WARNING:aiogram:Updates were skipped successfully.
-Sep 01 13:23:24 ubuntu-s-1vcpu-1gb-sgp1-01 python[409578]: INFO:aiogram.dispatcher.dispatcher:Start polling.
+Sep 01 13:27:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[410042]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
+Sep 01 13:27:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[410042]: WARNING:aiogram:Updates were skipped successfully.
+Sep 01 13:27:53 ubuntu-s-1vcpu-1gb-sgp1-01 python[410042]: INFO:aiogram.dispatcher.dispatcher:Start polling.
+Sep 01 13:29:10 ubuntu-s-1vcpu-1gb-sgp1-01 python[410214]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
+Sep 01 13:29:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[410214]: WARNING:aiogram:Updates were skipped successfully.
+Sep 01 13:29:11 ubuntu-s-1vcpu-1gb-sgp1-01 python[410214]: INFO:aiogram.dispatcher.dispatcher:Start polling.
