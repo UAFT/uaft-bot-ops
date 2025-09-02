@@ -1,31 +1,14 @@
-Sep 02 12:25:05 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Started UAFT Telegram bot (polling).
-Sep 02 12:25:06 ubuntu-s-1vcpu-1gb-sgp1-01 python[449391]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
-Sep 02 12:25:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[449391]: WARNING:aiogram:Updates were skipped successfully.
-Sep 02 12:25:07 ubuntu-s-1vcpu-1gb-sgp1-01 python[449391]: INFO:aiogram.dispatcher.dispatcher:Start polling.
-Sep 02 12:25:12 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Sent signal SIGKILL to main process 449391 (python) on client request.
-Sep 02 12:25:12 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Main process exited, code=killed, status=9/KILL
-Sep 02 12:25:12 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Failed with result 'signal'.
-Sep 02 12:25:14 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Scheduled restart job, restart counter is at 1.
-Sep 02 12:25:14 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Stopped UAFT Telegram bot (polling).
-Sep 02 12:25:14 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Started UAFT Telegram bot (polling).
-Sep 02 12:25:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[449398]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
-Sep 02 12:25:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[449398]: WARNING:aiogram:Updates were skipped successfully.
-Sep 02 12:25:16 ubuntu-s-1vcpu-1gb-sgp1-01 python[449398]: INFO:aiogram.dispatcher.dispatcher:Start polling.
-Sep 02 12:28:04 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: /etc/systemd/system/uaft-bot.service:22: Unknown key name 'StartLimitIntervalSec' in section 'Service', ignoring.
-Sep 02 12:28:28 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: /etc/systemd/system/uaft-bot.service:22: Unknown key name 'StartLimitIntervalSec' in section 'Service', ignoring.
-Sep 02 12:28:39 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Stopping UAFT Telegram bot (polling)...
-Sep 02 12:28:39 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Deactivated successfully.
-Sep 02 12:28:39 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Stopped UAFT Telegram bot (polling).
-Sep 02 12:28:39 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Started UAFT Telegram bot (polling).
-Sep 02 12:28:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[449874]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
-Sep 02 12:28:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[449874]: WARNING:aiogram:Updates were skipped successfully.
-Sep 02 12:28:41 ubuntu-s-1vcpu-1gb-sgp1-01 python[449874]: INFO:aiogram.dispatcher.dispatcher:Start polling.
-Sep 02 12:28:47 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Sent signal SIGKILL to main process 449874 (python) on client request.
-Sep 02 12:28:47 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Main process exited, code=killed, status=9/KILL
-Sep 02 12:28:47 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Failed with result 'signal'.
-Sep 02 12:28:50 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Scheduled restart job, restart counter is at 1.
-Sep 02 12:28:50 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Stopped UAFT Telegram bot (polling).
-Sep 02 12:28:50 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Started UAFT Telegram bot (polling).
-Sep 02 12:28:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[449883]: INFO:aiogram:Bot: UAFT_BOT [@UAFT_bot]
-Sep 02 12:28:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[449883]: WARNING:aiogram:Updates were skipped successfully.
-Sep 02 12:28:51 ubuntu-s-1vcpu-1gb-sgp1-01 python[449883]: INFO:aiogram.dispatcher.dispatcher:Start polling.
+Sep 02 12:31:26 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: /etc/systemd/system/uaft-bot.service:23: Unknown key name 'StartLimitIntervalSec' in section 'Service', ignoring.
+Sep 02 12:31:51 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Stopping UAFT Telegram bot (polling)...
+Sep 02 12:31:51 ubuntu-s-1vcpu-1gb-sgp1-01 curl[450069]: {"ok":false,"error":"Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"}
+Sep 02 12:31:51 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Control process exited, code=exited, status=6/NOTCONFIGURED
+Sep 02 12:31:51 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Failed with result 'exit-code'.
+Sep 02 12:31:51 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Stopped UAFT Telegram bot (polling).
+Sep 02 12:31:51 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Triggering OnFailure= dependencies.
+Sep 02 12:31:51 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Started UAFT Telegram bot (polling).
+Sep 02 12:31:52 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Stopping UAFT Telegram bot (polling)...
+Sep 02 12:31:52 ubuntu-s-1vcpu-1gb-sgp1-01 curl[450080]: {"ok":false,"error":"Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"}
+Sep 02 12:31:52 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Control process exited, code=exited, status=6/NOTCONFIGURED
+Sep 02 12:31:52 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Failed with result 'exit-code'.
+Sep 02 12:31:52 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Stopped UAFT Telegram bot (polling).
+Sep 02 12:31:52 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Triggering OnFailure= dependencies.
