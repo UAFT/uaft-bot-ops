@@ -1,1 +1,1 @@
--- No entries --
+Sep 02 12:20:00 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: /etc/systemd/system/uaft-bot.service:19: Unknown key name 'StartLimitIntervalSec' in section 'Service', ignoring.
