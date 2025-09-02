@@ -1,1 +1,6 @@
-Sep 02 12:20:00 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: /etc/systemd/system/uaft-bot.service:19: Unknown key name 'StartLimitIntervalSec' in section 'Service', ignoring.
+Sep 02 12:20:22 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: /etc/systemd/system/uaft-bot.service:20: Unknown key name 'StartLimitIntervalSec' in section 'Service', ignoring.
+Sep 02 12:20:31 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Stopping UAFT Telegram bot (polling)...
+Sep 02 12:20:31 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Deactivated successfully.
+Sep 02 12:20:31 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: Stopped UAFT Telegram bot (polling).
+Sep 02 12:20:31 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: uaft-bot.service: Consumed 10.180s CPU time.
+Sep 02 12:24:34 ubuntu-s-1vcpu-1gb-sgp1-01 systemd[1]: /etc/systemd/system/uaft-bot.service:22: Unknown key name 'StartLimitIntervalSec' in section 'Service', ignoring.
